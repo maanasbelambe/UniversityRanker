@@ -19,10 +19,10 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-|  Title      |       ProjectTitle     |
+|  Title      |World University Ranker |
 | System URL  |      link_to_system    |
 | Video Link  |      link_to_video     |
 
 ## Project Summary
 
-This is a summary of the project!
+Our project aims to develop a dynamic web application that redefines the traditional approach to university rankings. By including a wider range of metrics, we hope to offer users the ability to customize and personalize rankings based on their unique preferences and values. This feature will allow prospective students to generate rankings that align closely with their specific interests and goals, moving away from the “one size fits all” rankings that we typically see, as well as store their own preferences in personalized accounts.
