@@ -97,8 +97,8 @@
                        <td>${attendance.Username}</td>
                        <td>${attendance.Password}</td>
                        <td>
-                         <button class="btn btn-warning btn-sm" data-username="${attendance.Username}">Modify</button>
-                         <button class="btn btn-danger btn-sm" data-username="${attendance.Username}">Delete</button>
+                         <button class="btn btn-warning btn-sm modify-btn" data-username="${attendance.Username}">Modify</button>
+                         <button class="btn btn-danger btn-sm delete-btn" data-username="${attendance.Username}">Delete</button>
                        </td>
                      </tr>`;
           });
@@ -111,43 +111,44 @@
     });
   });
 
-$(document).on('click', '.btn-warning', function() {
+$(document).on('click', '.modify-btn', function() {
         var username = $(this).data('username');
         $('#newUsername').val(username);
+        $('#confirmModify').data('username', username);
         $('#modifyUserModal').modal('show');
 });
 
   $('#confirmModify').click(function() {
     var newUsername = $('#newUsername').val();
-    var username = $('.btn-warning').data('username');
+    var username = $(this).data('username');
     $.ajax({
-        url: '/api/attendance/modify/' + username,
+        url: '/api/users/modify/' + username,
         type: 'POST',
         data: {
             new_username: newUsername
         },
         success: function(response) {
-            alert('Attendance modified successfully for Username: ' + username);
+            alert('User modified successfully for Username: ' + username);
             location.reload();
         },
         error: function() {
-            alert('Error modifying attendance for Username: ' + username);
+            alert('Error modifying user for Username: ' + username);
         }
     });
   });
 
-    $(document).on('click', '.btn-danger', function() {
+    $(document).on('click', '.delete-btn', function() {
         var username = $(this).data('username');
-        if(confirm('Are you sure you want to delete attendance for Username: ' + username + '?')) {
+        if(confirm('Are you sure you want to delete User: ' + username + '?')) {
             $.ajax({
-                url: '/api/attendance/delete/' + username,
+                url: '/api/users/delete/' + username,
                 type: 'DELETE',
                 success: function(response) {
-                    alert('Attendance deleted successfully for Username: ' + username);
+                    alert('Successfully deleted User: ' + username);
                     location.reload();
                 },
                 error: function() {
-                    alert('Error deleting attendance for Username: ' + username);
+                    alert('Error deleting User: ' + username);
                 }
             });
         }

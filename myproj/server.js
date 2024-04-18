@@ -50,7 +50,7 @@ app.post('/mark', function(req, res) {
   });
 });
 
-app.get('/api/attendance', function(req, res) {
+app.get('/api/users', function(req, res) {
   var sql = 'SELECT * FROM Users';
 
   connection.query(sql, function(err, results) {
@@ -63,7 +63,7 @@ app.get('/api/attendance', function(req, res) {
   });
 });
 
-app.post('/api/attendance/modify/:username', function(req, res) {
+app.post('/api/users/modify/:username', function(req, res) {
   var username = req.params.username;
   var new_username = req.body.new_username; // Assuming 'present' is sent in the request body
 
@@ -84,7 +84,7 @@ app.post('/api/attendance/modify/:username', function(req, res) {
   });
 });
 
-app.delete('/api/attendance/delete/:username', function(req, res) {
+app.delete('/api/users/delete/:username', function(req, res) {
   var username = req.params.username;
 
   var sql = 'DELETE FROM Users WHERE Username = ?';
