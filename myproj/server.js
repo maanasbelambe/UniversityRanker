@@ -85,7 +85,7 @@ app.post('/api/attendance/modify/:username', function(req, res) {
 });
 
 app.delete('/api/attendance/delete/:username', function(req, res) {
-  var username = req.params.id;
+  var username = req.params.username;
 
   var sql = 'DELETE FROM Users WHERE Username = ?';
 
