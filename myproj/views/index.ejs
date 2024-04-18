@@ -59,6 +59,28 @@
         </div>
       </div>
     </div>
+
+    <div class="modal fade" id="modifyUserModal" tabindex="-1" role="dialog" aria-labelledby="modifyUserModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="modifyUserModalLabel">Modify User</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <label for="newUsername">New Username:</label>
+            <input type="text" class="form-control" id="newUsername" placeholder="Enter New Username">
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary" id="confirmModify">Save changes</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
 
   <script>
@@ -91,21 +113,28 @@
 
 $(document).on('click', '.btn-warning', function() {
         var username = $(this).data('username');
-        $.ajax({
-            url: '/api/attendance/modify/' + username,
-            type: 'POST',
-            data: {
-                new_username: 'new_username_value'
-            },
-            success: function(response) {
-                alert('Attendance modified successfully for Username: ' + username);
-                location.reload();
-            },
-            error: function() {
-                alert('Error modifying attendance for Username: ' + username);
-            }
-        });
+        $('#newUsername').val(username);
+        $('#modifyUserModal').modal('show');
+});
+
+  $('#confirmModify').click(function() {
+    var newUsername = $('#newUsername').val();
+    var username = $('.btn-warning').data('username');
+    $.ajax({
+        url: '/api/attendance/modify/' + username,
+        type: 'POST',
+        data: {
+            new_username: 'new_username_value'
+        },
+        success: function(response) {
+            alert('Attendance modified successfully for Username: ' + username);
+            location.reload();
+        },
+        error: function() {
+            alert('Error modifying attendance for Username: ' + username);
+        }
     });
+  });
 
     $(document).on('click', '.btn-danger', function() {
         var username = $(this).data('username');
