@@ -124,7 +124,7 @@ $(document).on('click', '.btn-warning', function() {
         url: '/api/attendance/modify/' + username,
         type: 'POST',
         data: {
-            new_username: 'new_username_value'
+            new_username: newUsername
         },
         success: function(response) {
             alert('Attendance modified successfully for Username: ' + username);
