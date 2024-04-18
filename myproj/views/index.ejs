@@ -90,7 +90,7 @@
   });
 
 $(document).on('click', '.btn-warning', function() {
-        var username = $(this).data('Username');
+        var username = $(this).data('username');
         $.ajax({
             url: '/api/attendance/modify/' + username,
             type: 'POST',
@@ -108,7 +108,7 @@ $(document).on('click', '.btn-warning', function() {
     });
 
     $(document).on('click', '.btn-danger', function() {
-        var username = $(this).data('Username');
+        var username = $(this).data('username');
         if(confirm('Are you sure you want to delete attendance for Username: ' + username + '?')) {
             $.ajax({
                 url: '/api/attendance/delete/' + username,
