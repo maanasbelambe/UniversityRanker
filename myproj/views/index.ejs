@@ -51,7 +51,7 @@
                   <th scope="col">Actions</th>
                 </tr>
               </thead>
-              <tbody id="attendanceBody">
+              <tbody id="userBody">
                 <!-- Attendance rows will be inserted here -->
               </tbody>
             </table>
@@ -87,22 +87,22 @@
   $(document).ready(function() {
     $('#loadUsersBtn').click(function() {
       $.ajax({
-        url: '/api/attendance',
+        url: '/api/users',
         method: 'GET',
         success: function(data) {
           var rows = '';
-          data.forEach(function(attendance, index) {
+          data.forEach(function(users, index) {
             rows += `<tr>
                        <th scope="row">${index + 1}</th>
-                       <td>${attendance.Username}</td>
-                       <td>${attendance.Password}</td>
+                       <td>${users.Username}</td>
+                       <td>${users.Password}</td>
                        <td>
-                         <button class="btn btn-warning btn-sm modify-btn" data-username="${attendance.Username}">Modify</button>
-                         <button class="btn btn-danger btn-sm delete-btn" data-username="${attendance.Username}">Delete</button>
+                         <button class="btn btn-warning btn-sm modify-btn" data-username="${users.Username}">Modify</button>
+                         <button class="btn btn-danger btn-sm delete-btn" data-username="${users.Username}">Delete</button>
                        </td>
                      </tr>`;
           });
-          $('#attendanceBody').html(rows);
+          $('#userBody').html(rows);
         },
         error: function() {
           alert('Failed to load user data.');
