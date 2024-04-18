@@ -75,8 +75,8 @@
                        <td>${attendance.username}</td>
                        <td>${attendance.password}</td>
                        <td>
-                         <button class="btn btn-warning btn-sm" data-netid="${attendance.username}">Modify</button>
-                         <button class="btn btn-danger btn-sm" data-netid="${attendance.password}">Delete</button>
+                         <button class="btn btn-warning btn-sm" data-username="${attendance.username}">Modify</button>
+                         <button class="btn btn-danger btn-sm" data-username="${attendance.username}">Delete</button>
                        </td>
                      </tr>`;
           });
@@ -95,7 +95,7 @@ $(document).on('click', '.btn-warning', function() {
             url: '/api/attendance/modify/' + username,
             type: 'POST',
             data: {
-                present: 0
+                new_username: 'new_username_value'
             },
             success: function(response) {
                 alert('Attendance modified successfully for Username: ' + username);

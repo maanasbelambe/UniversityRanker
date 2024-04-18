@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
                 database: 'unirankdb'
 });
 
-connection.connect;
+connection.connect();
 
 
 var app = express();
