@@ -72,18 +72,18 @@
           data.forEach(function(attendance, index) {
             rows += `<tr>
                        <th scope="row">${index + 1}</th>
-                       <td>${attendance.username}</td>
-                       <td>${attendance.password}</td>
+                       <td>${attendance.Username}</td>
+                       <td>${attendance.Password}</td>
                        <td>
-                         <button class="btn btn-warning btn-sm" data-username="${attendance.username}">Modify</button>
-                         <button class="btn btn-danger btn-sm" data-username="${attendance.username}">Delete</button>
+                         <button class="btn btn-warning btn-sm" data-username="${attendance.Username}">Modify</button>
+                         <button class="btn btn-danger btn-sm" data-username="${attendance.Username}">Delete</button>
                        </td>
                      </tr>`;
           });
           $('#attendanceBody').html(rows);
         },
         error: function() {
-          alert('Failed to load attendance data.');
+          alert('Failed to load user data.');
         }
       });
     });
