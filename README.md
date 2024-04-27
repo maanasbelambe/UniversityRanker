@@ -19,6 +19,9 @@ This project utilizes data from the "QS World University Rankings 2024" dataset 
 
 ## Contributors
 Ashmit Gaba, ashmitg2
+
 Maanas Belambe, belambe2
+
 Navtej Kathuria, navtejk2
+
 Khushi Patel, khuship2
