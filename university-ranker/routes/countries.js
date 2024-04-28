@@ -1,9 +1,7 @@
-// In routes/countries.js
 const express = require('express');
 const router = express.Router();
 const db = require('../db/database');
 
-// Route to get country details
 router.get('/countries/:countryName', (req, res) => {
     const countryName = req.params.countryName;
     const sql = "SELECT * FROM Countries WHERE Name = ?";

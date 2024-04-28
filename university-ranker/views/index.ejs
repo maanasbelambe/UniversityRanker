@@ -6,7 +6,17 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
+    <% if (username) { %>
+        <p>Logged in as: <a href="/favorites"><%= username %></a></p>
+    <% } else { %>
+        <p><a href="/login">Login</a> or <a href="/register">Register</a></p>
+    <% } %>
+    <p><a href="/logout">Logout</a></p>
     <h1>Universities List</h1>
+    <form action="/" method="get">
+        <input type="text" name="search" placeholder="Search universities..." value="<%= searchQuery || '' %>">
+        <button type="submit">Search</button>
+    </form>    
     <table>
         <thead>
             <tr>

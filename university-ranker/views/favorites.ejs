@@ -1,1 +1,30 @@
-<!-- Favorites View -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Favorites</title>
+</head>
+<body>
+    <form action="/update-username" method="post">
+        <input type="text" name="newUsername" placeholder="Enter new username" required>
+        <button type="submit">Update Username</button>
+    </form>
+
+    <h1>Your Favorite Universities</h1>
+    <% for (const uni in favorites) { %>
+        <h2><%= uni %> <form action="/delete-favorite" method="post" style="display:inline;">
+            <input type="hidden" name="university" value="<%= uni %>">
+            <button type="submit">Delete</button>
+        </form></h2>
+        <h3>Offered Subjects:</h3>
+        <ul>
+            <% favorites[uni].Subjects.forEach(function(subject) { %>
+                <li><%= subject %></li>
+            <% }); %>
+        </ul>
+    <% } %>
+    <a href="/">Back to Universities</a>
+</body>
+</html>
+
+

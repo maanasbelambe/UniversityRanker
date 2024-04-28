@@ -3,12 +3,19 @@ const bodyParser = require('body-parser');
 const app = express();
 const port = 80;
 
-// Setting up the public directory
 app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.set('view engine', 'ejs');
 
-// Import routes
+const session = require('express-session');
+
+app.use(session({
+  secret: 'team032-session-key',
+  resave: false,
+  saveUninitialized: true,
+  cookie: { secure: 'auto' }
+}));
+
 const indexRoutes = require('./routes/index');
 app.use('/', indexRoutes);
 
@@ -20,6 +27,9 @@ app.use(countryRoutes);
 
 const universityRoutes = require('./routes/universities');
 app.use(universityRoutes);
+
+const favoriteRoutes = require('./routes/favorites');
+app.use(favoriteRoutes);
 
 app.listen(port, () => {
     console.log(`Server running on http://localhost:${port}`);

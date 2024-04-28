@@ -1,9 +1,7 @@
-// In routes/universities.js
 const express = require('express');
 const router = express.Router();
 const db = require('../db/database');
 
-// Route to get university details
 router.get('/universities/:universityName', async (req, res) => {
     const universityName = req.params.universityName;
     try {
