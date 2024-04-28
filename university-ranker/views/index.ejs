@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>University Rankings</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <h1>Universities List</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Location</th>
+                <th>Overall Score</th>
+                <th>Teaching Score</th>
+                <th>Research Score</th>
+                <th>Employer Score</th>
+                <th>Population</th>
+                <th>2024 Ranking</th>
+                <th>Favorite</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% universities.forEach(function(uni) { %>
+            <tr>
+                <td><a href="/universities/<%= uni.Name %>"><%= uni.Name %></a></td>
+                <td><a href="/countries/<%= uni.Location %>"><%= uni.Location %></a></td>
+                <td><%= uni.OverallScore %></td>
+                <td><%= uni.TeachingScore %></td>
+                <td><%= uni.ResearchScore %></td>
+                <td><%= uni.EmployerScore %></td>
+                <td><%= uni.Population %></td>
+                <td><%= uni.Ranking || 'Not Ranked' %></td>
+                <td>
+                    <form action="/add-favorite" method="post">
+                        <input type="hidden" name="username" value="your_username">
+                        <input type="hidden" name="university" value="<%= uni.Name %>">
+                        <button type="submit">Add</button>
+                    </form>
+                </td>
+            </tr>
+            <% }) %>
+        </tbody>
+    </table>
+</body>
+</html>

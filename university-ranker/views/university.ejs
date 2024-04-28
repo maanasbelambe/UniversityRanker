@@ -1,0 +1,25 @@
+<!-- In views/university.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><%= university.Name %> Details</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <h1><%= university.Name %> Details</h1>
+    <h2>Offered Subjects:</h2>
+    <ul>
+        <% offeredSubjects.forEach(function(subject) { %>
+            <li><%= subject.Name %></li>
+        <% }) %>
+    </ul>
+    <h2>Historical Rankings:</h2>
+    <ul>
+        <% rankings.forEach(function(ranking) { %>
+            <li><%= ranking.Year %>: Rank <%= ranking.Ranking %></li>
+        <% }) %>
+    </ul>
+    <a href="/">Back to Universities</a>
+</body>
+</html>
