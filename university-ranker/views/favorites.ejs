@@ -17,14 +17,27 @@
             <button type="submit">Delete</button>
         </form></h2>
         <h3>Offered Subjects:</h3>
-        <ul>
-            <% favorites[uni].Subjects.forEach(function(subject) { %>
-                <li><%= subject %></li>
-            <% }); %>
-        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject</th>
+                    <th>25th Salary</th>
+                    <th>50th Salary</th>
+                    <th>75th Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% favorites[uni].Subjects.forEach(function(subject) { %>
+                    <tr>
+                        <td><%= subject.SubjectName %></td>
+                        <td><%= subject['25_Salary'] %></td>
+                        <td><%= subject['50_Salary'] %></td>
+                        <td><%= subject['75_Salary'] %></td>
+                    </tr>
+                <% }); %>
+            </tbody>
+        </table>
     <% } %>
     <a href="/">Back to Universities</a>
 </body>
 </html>
-
-

@@ -11,7 +11,7 @@ router.get('/favorites', (req, res) => {
     }
 
     const favoritesSql = `
-        SELECT f.University, s.Name AS SubjectName
+        SELECT f.University, s.Name AS SubjectName, s.25_Salary, s.50_Salary, s.75_Salary
         FROM Favorites f
         JOIN Universities u ON f.University = u.Name
         JOIN OfferedSubjects os ON u.Name = os.University
@@ -40,7 +40,12 @@ function formatFavorites(favoritesResults) {
                 Subjects: []
             };
         }
-        favorites[fav.University].Subjects.push(fav.SubjectName);
+        favorites[fav.University].Subjects.push({
+            SubjectName: fav.SubjectName,
+            '25_Salary': fav['25_Salary'],
+            '50_Salary': fav['50_Salary'],
+            '75_Salary': fav['75_Salary'],
+        });
     });
     return favorites;
 }
