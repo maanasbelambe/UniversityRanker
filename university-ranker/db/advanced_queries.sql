@@ -32,17 +32,31 @@ DELIMITER ;
 -- Stored Procedure --
 DELIMITER //
 
-CREATE PROCEDURE GetTopUniversities (
-    IN Username VARCHAR(50))
+CREATE PROCEDURE GetEliteUniversities()
 BEGIN
-    SELECT DISTINCT U.Name
-    FROM Universities U NATURAL JOIN Rankings R
-    WHERE R.Ranking <= 10
-    -- create query to get universities ranked in the top 25 --
+    (SELECT DISTINCT U.Name
+    FROM Universities U JOIN Rankings R ON U.Name = R.University AND R.Year = 2024
+    WHERE R.Ranking <= 25)
 
+    UNION
 
-    -- create query to get universities with 2 of 3 scores above 80 --
-    -- union with universities that offer 5 subjects with more than 80000 75th salary --
+    ((SELECT DISTINCT Name
+    FROM Universities
+    WHERE (TeachingScore >= 80 AND ResearchScore >= 80) OR 
+          (EmployerScore >= 80 AND ResearchScore >= 80) OR 
+          (EmployerScore >= 80 AND TeachingScore >= 80))
 
+    INTERSECT
+
+    (SELECT U.Name AS Name
+    FROM Universities U
+    JOIN OfferedSubjects OS ON U.Name = OS.University
+    JOIN Subjects S ON OS.Subject = S.Name
+    WHERE S.75_Salary > 80000
+    GROUP BY U.Name
+    HAVING COUNT(*) > 5));
+END//
+
+DELIMITER ;
 
 -- Transaction --

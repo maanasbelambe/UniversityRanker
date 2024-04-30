@@ -27,7 +27,9 @@ router.get('/favorites', (req, res) => {
         }
         const organizedFavorites = formatFavorites(favoritesResults);
 
-        res.render('favorites', { favorites: organizedFavorites });
+        const eliteUniversities = db.query('CALL GetEliteUniversities()')
+
+        res.render('favorites', { favorites: organizedFavorites, elite: eliteUniversities });
     });
 });
 
