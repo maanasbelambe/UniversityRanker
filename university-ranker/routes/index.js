@@ -43,6 +43,11 @@ router.post('/add-favorite', (req, res) => {
 
     db.query(sql, [username, university], (err, result) => {
         if (err) {
+            if (err.sqlState === '45000') {
+                const message = err.message;
+                console.error('Error during database insert:', message);
+                return res.status(400).send(message);
+            }
             console.error('Error during database insert:', err);
             return res.status(500).send("Failed to add favorite");
         }

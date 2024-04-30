@@ -8,7 +8,7 @@ router.get('/register', (req, res) => {
 
 router.post('/register', (req, res) => {
     const { username, password } = req.body;
-    const sql = 'INSERT INTO Users (Username, Password) VALUES (?, ?)';
+    const sql = 'INSERT INTO Users (Username, Password, FavoriteCount) VALUES (?, ?, 0)';
     db.query(sql, [username, password], (err, result) => {
         if (err) {
             console.error('Error during database insert:', err);
