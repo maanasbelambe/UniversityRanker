@@ -18,9 +18,31 @@ BEGIN
     END IF;
 END//
 
+CREATE TRIGGER DeleteFavoriteTrigger
+AFTER DELETE ON Favorites
+FOR EACH ROW
+
+BEGIN
+    UPDATE Users SET FavoriteCount = FavoriteCount - 1 WHERE Username = OLD.Username;
+END//
+
 DELIMITER ;
 
+
 -- Stored Procedure --
+DELIMITER //
+
+CREATE PROCEDURE GetTopUniversities (
+    IN Username VARCHAR(50))
+BEGIN
+    SELECT DISTINCT U.Name
+    FROM Universities U NATURAL JOIN Rankings R
+    WHERE R.Ranking <= 10
+    -- create query to get universities ranked in the top 25 --
+
+
+    -- create query to get universities with 2 of 3 scores above 80 --
+    -- union with universities that offer 5 subjects with more than 80000 75th salary --
 
 
 -- Transaction --
