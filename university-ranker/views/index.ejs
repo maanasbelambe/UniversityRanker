@@ -2,56 +2,61 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>University Rankings</title>
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <% if (username) { %>
-        <p>Logged in as: <a href="/favorites"><%= username %></a></p>
-    <% } else { %>
-        <p><a href="/login">Login</a> or <a href="/register">Register</a></p>
-    <% } %>
-    <p><a href="/logout">Logout</a></p>
-    <h1>Universities List</h1>
-    <form action="/" method="get">
-        <input type="text" name="search" placeholder="Search universities..." value="<%= searchQuery || '' %>">
-        <button type="submit">Search</button>
-    </form>    
-    <table>
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Location</th>
-                <th>Overall Score</th>
-                <th>Teaching Score</th>
-                <th>Research Score</th>
-                <th>Employer Score</th>
-                <th>Population</th>
-                <th>2024 Ranking</th>
-                <th>Favorite</th>
-            </tr>
-        </thead>
-        <tbody>
-            <% universities.forEach(function(uni) { %>
-            <tr>
-                <td><a href="/universities/<%= uni.Name %>"><%= uni.Name %></a></td>
-                <td><a href="/countries/<%= uni.Location %>"><%= uni.Location %></a></td>
-                <td><%= uni.OverallScore %></td>
-                <td><%= uni.TeachingScore %></td>
-                <td><%= uni.ResearchScore %></td>
-                <td><%= uni.EmployerScore %></td>
-                <td><%= uni.Population %></td>
-                <td><%= uni.Ranking || 'Not Ranked' %></td>
-                <td>
-                    <form action="/add-favorite" method="post">
-                        <input type="hidden" name="username" value="your_username">
-                        <input type="hidden" name="university" value="<%= uni.Name %>">
-                        <button type="submit">Add</button>
-                    </form>
-                </td>
-            </tr>
-            <% }) %>
-        </tbody>
-    </table>
+    <div class="container">
+        <div class="user-controls">
+            <% if (username) { %>
+                <p>Logged in as: <a href="/favorites" class="user-link"><%= username %></a></p>
+            <% } else { %>
+                <p><a href="/login">Login</a> or <a href="/register">Register</a></p>
+            <% } %>
+            <p><a href="/logout">Logout</a></p>
+        </div>
+        <h1>Universities List</h1>
+        <form action="/" method="get" class="search-form">
+            <input type="text" name="search" placeholder="Search universities..." value="<%= searchQuery || '' %>" class="search-input">
+            <button type="submit" class="btn search-btn">Search</button>
+        </form>
+        <table class="universities-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Location</th>
+                    <th>Overall Score</th>
+                    <th>Teaching Score</th>
+                    <th>Research Score</th>
+                    <th>Employer Score</th>
+                    <th>Population</th>
+                    <th>2024 Ranking</th>
+                    <th>Favorite</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% universities.forEach(function(uni) { %>
+                <tr>
+                    <td><a href="/universities/<%= uni.Name %>"><%= uni.Name %></a></td>
+                    <td><a href="/countries/<%= uni.Location %>"><%= uni.Location %></a></td>
+                    <td><%= uni.OverallScore %></td>
+                    <td><%= uni.TeachingScore %></td>
+                    <td><%= uni.ResearchScore %></td>
+                    <td><%= uni.EmployerScore %></td>
+                    <td><%= uni.Population %></td>
+                    <td><%= uni.Ranking || 'Not Ranked' %></td>
+                    <td>
+                        <form action="/add-favorite" method="post" class="favorite-form">
+                            <input type="hidden" name="username" value="<%= username %>">
+                            <input type="hidden" name="university" value="<%= uni.Name %>">
+                            <button type="submit" class="btn">Add</button>
+                        </form>
+                    </td>
+                </tr>
+                <% }) %>
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>

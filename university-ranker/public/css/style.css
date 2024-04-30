@@ -1,3 +1,4 @@
+/* Base styles */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -63,3 +64,219 @@ li {
     padding: 8px;
     margin-bottom: 5px;
 }
+
+/* Registration form specific styles */
+.registration-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #666;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btn {
+    background-color: #5c67f2;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #4a54e1;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    outline: none;
+    border-color: #5c67f2;
+}
+
+.user-controls {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.user-link {
+    color: #5c67f2; /* Ensuring consistency with button colors */
+}
+
+.search-form {
+    margin-bottom: 20px;
+}
+
+.search-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: calc(100% - 100px); /* Adjust based on the button width */
+}
+
+.search-btn {
+    padding: 10px 20px;
+}
+
+.universities-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.universities-table th,
+.universities-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.universities-table th {
+    background-color: #f4f4f4;
+}
+
+.universities-table a {
+    color: #5c67f2;
+    text-decoration: none;
+}
+
+.favorite-form button {
+    background-color: #4CAF50; /* A distinct green color for the favorite button */
+    color: white;
+}
+
+.favorite-form button:hover {
+    background-color: #45a049;
+}
+
+.container {
+    padding: 20px;
+}
+
+.form-inline {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.input-field {
+    width: calc(100% - 110px);
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-danger {
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+}
+
+.btn-danger:hover {
+    background-color: #c0392b;
+}
+
+.data-table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+.data-table th, 
+.data-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.data-table th {
+    background-color: #f4f4f4;
+}
+
+.university {
+    margin-bottom: 40px;
+}
+
+.btn-link {
+    display: block;
+    margin-top: 20px;
+    background-color: #5c67f2;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.info-section {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+.btn-link {
+    display: inline-block;
+    background-color: #5c67f2;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.container {
+    width: 85%;
+    max-width: 600px;
+    margin: auto;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.universities-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: auto;  /* Allows table to expand beyond container width */
+    margin-bottom: 20px;
+}
+
+.universities-table th, 
+.universities-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+    min-width: 120px; /* Adjust as needed */
+}
+
+.container {
+    width: 95%;
+    max-width: none; /* Remove max-width if set, to allow for more space */
+    overflow-x: auto; /* Adds horizontal scroll on smaller screens */
+    padding: 20px;
+    margin: auto;
+}
+

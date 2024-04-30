@@ -2,15 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Country Information</title>
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <h1>Country Information: <%= country.Name %></h1>
-    <p>Living Cost Score: <%= country.LivingCostScore %></p>
-    <p>Safety Score: <%= country.SafetyScore %></p>
-    <p>Rights Score: <%= country.RightsScore %></p>
-    <p>Climate Score: <%= country.ClimateScore %></p>
-    <a href="/">Back to Universities</a>
+    <div class="container">
+        <h1>Country Information: <%= country.Name %></h1>
+        <div class="info-section">
+            <p><strong>Living Cost Score:</strong> <%= country.LivingCostScore %></p>
+            <p><strong>Safety Score:</strong> <%= country.SafetyScore %></p>
+            <p><strong>Rights Score:</strong> <%= country.RightsScore %></p>
+            <p><strong>Climate Score:</strong> <%= country.ClimateScore %></p>
+        </div>
+        <a href="/" class="btn-link">Back to Universities</a>
+    </div>
 </body>
 </html>

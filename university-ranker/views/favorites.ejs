@@ -2,42 +2,50 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Favorites</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <form action="/update-username" method="post">
-        <input type="text" name="newUsername" placeholder="Enter new username" required>
-        <button type="submit">Update Username</button>
-    </form>
+    <div class="container">
+        <form action="/update-username" method="post" class="form-inline">
+            <input type="text" name="newUsername" placeholder="Enter new username" required class="input-field">
+            <button type="submit" class="btn">Update Username</button>
+        </form>
 
-    <h1>Your Favorite Universities</h1>
-    <% for (const uni in favorites) { %>
-        <h2><%= uni %> <form action="/delete-favorite" method="post" style="display:inline;">
-            <input type="hidden" name="university" value="<%= uni %>">
-            <button type="submit">Delete</button>
-        </form></h2>
-        <h3>Offered Subjects:</h3>
-        <table>
-            <thead>
-                <tr>
-                    <th>Subject</th>
-                    <th>25th Salary</th>
-                    <th>50th Salary</th>
-                    <th>75th Salary</th>
-                </tr>
-            </thead>
-            <tbody>
-                <% favorites[uni].Subjects.forEach(function(subject) { %>
-                    <tr>
-                        <td><%= subject.SubjectName %></td>
-                        <td><%= subject['25_Salary'] %></td>
-                        <td><%= subject['50_Salary'] %></td>
-                        <td><%= subject['75_Salary'] %></td>
-                    </tr>
-                <% }); %>
-            </tbody>
-        </table>
-    <% } %>
-    <a href="/">Back to Universities</a>
+        <h1>Your Favorite Universities</h1>
+        <% for (const uni in favorites) { %>
+            <div class="university">
+                <h2><%= uni %>
+                    <form action="/delete-favorite" method="post" class="form-inline">
+                        <input type="hidden" name="university" value="<%= uni %>">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </h2>
+                <h3>Offered Subjects:</h3>
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Subject</th>
+                            <th>25th Salary</th>
+                            <th>50th Salary</th>
+                            <th>75th Salary</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <% favorites[uni].Subjects.forEach(function(subject) { %>
+                            <tr>
+                                <td><%= subject.SubjectName %></td>
+                                <td><%= subject['25_Salary'] %></td>
+                                <td><%= subject['50_Salary'] %></td>
+                                <td><%= subject['75_Salary'] %></td>
+                            </tr>
+                        <% }); %>
+                    </tbody>
+                </table>
+            </div>
+        <% } %>
+        <a href="/" class="btn-link">Back to Universities</a>
+    </div>
 </body>
 </html>

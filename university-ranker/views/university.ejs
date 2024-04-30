@@ -2,23 +2,39 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><%= university.Name %> Details</title>
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <h1><%= university.Name %> Details</h1>
-    <h2>Offered Subjects:</h2>
-    <ul>
-        <% offeredSubjects.forEach(function(subject) { %>
-            <li><%= subject.Name %></li>
-        <% }) %>
-    </ul>
-    <h2>Historical Rankings:</h2>
-    <ul>
-        <% rankings.forEach(function(ranking) { %>
-            <li><%= ranking.Year %>: Rank <%= ranking.Ranking %></li>
-        <% }) %>
-    </ul>
-    <a href="/">Back to Universities</a>
+    <div class="container">
+        <header>
+            <h1><%= university.Name %> Details</h1>
+        </header>
+        <nav>
+            <a href="/">Back to Universities</a>
+        </nav>
+        <main>
+            <section>
+                <h2>Offered Subjects:</h2>
+                <ul>
+                    <% offeredSubjects.forEach(function(subject) { %>
+                        <li><%= subject.Name %></li>
+                    <% }) %>
+                </ul>
+            </section>
+            <section>
+                <h2>Historical Rankings:</h2>
+                <ul>
+                    <% rankings.forEach(function(ranking) { %>
+                        <li><%= ranking.Year %>: Rank <%= ranking.Ranking %></li>
+                    <% }) %>
+                </ul>
+            </section>
+        </main>
+        <footer>
+            <p>© 2024 Team DatabaseSystem32. All rights reserved.</p>
+        </footer>
+    </div>
 </body>
 </html>
