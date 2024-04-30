@@ -27,11 +27,18 @@ router.get('/favorites', (req, res) => {
         }
         const organizedFavorites = formatFavorites(favoritesResults);
 
-        const eliteUniversities = db.query('CALL GetEliteUniversities()')
-
-        res.render('favorites', { favorites: organizedFavorites, elite: eliteUniversities });
+        // Correct the handling of the elite universities query
+        db.query('CALL GetEliteUniversities()', (err, eliteResults) => {
+            if (err) {
+                console.error('Error fetching elite universities:', err);
+                return res.status(500).send("Database error fetching elite universities");
+            }
+            const eliteUniversities = new Set(eliteResults[0].map(uni => uni.Name));
+            res.render('favorites', { favorites: organizedFavorites, elite: eliteUniversities });
+        });
     });
 });
+
 
 function formatFavorites(favoritesResults) {
     const favorites = {};

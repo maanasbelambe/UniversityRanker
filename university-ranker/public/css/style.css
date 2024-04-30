@@ -280,3 +280,32 @@ p {
     margin: auto;
 }
 
+.legend {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.legend-item {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.color-box {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.color-box.elite {
+    background-color: green;
+}
+
+.color-box.other {
+    background-color: black;
+}
+
+.elite {
+    color: green;
+}

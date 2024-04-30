@@ -14,10 +14,15 @@
         </form>
 
         <h1>Your Favorite Universities</h1>
+        <div class="legend">
+            <span class="legend-item"><span class="color-box elite"></span> Green = Elite University</span>
+            <span class="legend-item"><span class="color-box other"></span> Black = Other</span>
+        </div>
+
         <% for (const uni in favorites) { %>
             <div class="university">
-                <h2><%= uni %>
-                    <form action="/delete-favorite" method="post" class="form-inline">
+                <h2 class="<%= elite.has(uni) ? 'elite' : '' %>"><%= uni %></h2>
+                <form action="/delete-favorite" method="post" class="form-inline">
                         <input type="hidden" name="university" value="<%= uni %>">
                         <button type="submit" class="btn btn-danger">Delete</button>
                     </form>
