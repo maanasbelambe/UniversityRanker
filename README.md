@@ -7,11 +7,10 @@ Welcome to the "World University Ranker" project, a dynamic web application desi
 
 ## Features
 
-- **Customizable Rankings:** Users can adjust the importance of various factors such as academic excellence, faculty-to-student ratio, campus sustainability, employment outcomes, and diversity.
+- **Customizable Rankings:** Users can view the various factors of different universities around the world such as university score, employment score, etc.
 - **Trend Analysis:** Analyze university ranking trends from 2017 to 2024, allowing users to consider historical performance in their decision-making process.
 - **User Accounts:** Users can create personal accounts to save favorite universities and maintain customized ranking lists.
 - **Interactive Search:** Search for universities by specific criteria to find the best match for your educational and career goals.
-- **Responsive Design:** Access the platform on any device, optimized for both desktop and mobile usage.
 
 ## Data Source
 
