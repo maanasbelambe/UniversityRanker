@@ -58,3 +58,24 @@ BEGIN
 END//
 
 DELIMITER ;
+
+-- Transaction -- 
+START TRANSACTION;
+SET TRANSACTION READ ONLY, 
+ISOLATION LEVEL READ UNCOMMITTED;
+SELECT U.Name, U.Location, R.Year, R.Ranking, AVG(S.50_Salary) AS AverageSalary
+FROM Universities U
+JOIN Rankings R ON U.Name = R.University
+JOIN OfferedSubjects OS ON U.Name = OS.University
+JOIN Subjects S ON OS.Subject = S.Name
+WHERE U.Name = 'X University Name' AND R.Year = 2024
+GROUP BY U.Name, U.Location, R.Year, R.Ranking;
+
+SELECT U.Name, COUNT(DISTINCT S.Name) AS NumUnqSubjectsOffered
+FROM Universities U
+JOIN OfferedSubjects OS ON U.Name = OS.University
+JOIN Subjects S ON OS.Subject = S.Name
+WHERE U.Name = 'X University Name'
+GROUP BY U.Name;
+
+COMMIT;
