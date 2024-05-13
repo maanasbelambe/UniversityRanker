@@ -1,0 +1,174 @@
+Name,25_Salary,50_Salary,75_Salary
+General Agriculture,34000,50000,80000
+Agriculture Production And Management,36000,54000,80000
+Agricultural Economics,40000,63000,98000
+Animal Sciences,30000,46000,72000
+Food Science,38500,62000,90000
+Plant Science And Agronomy,35000,50000,75000
+Soil Science,39400,63000,88000
+Miscellaneous Agriculture,35000,52000,75000
+Environmental Science,38000,52000,75000
+Forestry,40500,58000,80000
+Natural Resources Management,37100,52000,75000
+Architecture,40400,63000,93500
+Area Ethnic And Civilization Studies,32000,46000,71000
+Communications,35000,50000,80000
+Journalism,35000,50000,80000
+Mass Media,32000,48000,70000
+Advertising And Public Relations,34000,50000,75000
+Communication Technologies,34500,50000,75000
+Computer And Information Systems,45000,65000,90000
+Computer Programming And Data Processing,40000,60000,85000
+Computer Science,51000,78000,105000
+Information Sciences,46200,68000,95000
+Computer Administration Management And Security,40000,55000,80000
+Computer Networking And Telecommunications,36000,55000,80000
+Cosmetology Services And Culinary Arts,26200,40000,60000
+General Education,32000,43000,59000
+Educational Administration And Supervision,44750,58000,79000
+School Student Counseling,33200,41000,50000
+Elementary Education,31000,40000,50000
+Mathematics Teacher Education,34000,43000,60000
+Physical And Health Education Teaching,34000,48400,66500
+Early Childhood Education,27000,35300,45800
+Science And Computer Teacher Education,35000,46000,61000
+Secondary Teacher Education,34000,45000,60000
+Special Needs Education,34000,42000,53000
+Social Science Or History Teacher Education,33000,45000,64000
+Teacher Education: Multiple Levels,30000,40000,51000
+Language And Drama Education,32000,42000,54000
+Art And Music Education,32000,42600,56000
+Miscellaneous Education,35600,50000,71000
+General Engineering,50000,75000,100000
+Aerospace Engineering,58000,80000,110000
+Biological Engineering,40000,62000,91000
+Architectural Engineering,50000,78000,102000
+Biomedical Engineering,40000,65000,96000
+Chemical Engineering,60000,86000,120000
+Civil Engineering,55000,78000,105000
+Computer Engineering,60000,80000,107000
+Electrical Engineering,60000,88000,116000
+Engineering Mechanics Physics And Science,45000,65000,100000
+Environmental Engineering,50000,70000,95000
+Geological And Geophysical Engineering,55000,85000,125000
+Industrial And Manufacturing Engineering,50000,75000,101000
+Materials Engineering And Materials Science,55000,78000,105000
+Mechanical Engineering,59000,80000,110000
+Metallurgical Engineering,65000,96000,123000
+Mining And Mineral Engineering,52000,92000,124000
+Naval Architecture And Marine Engineering,60000,97000,125000
+Nuclear Engineering,65000,95000,128000
+Petroleum Engineering,75000,125000,210000
+Miscellaneous Engineering,50000,70000,100000
+Engineering Technologies,40000,63000,93000
+Engineering And Industrial Management,50000,74000,107000
+Electrical Engineering Technology,46900,67000,91000
+Industrial Production Technologies,48000,70000,98000
+Mechanical Engineering Related Technologies,40000,60000,82000
+Miscellaneous Engineering Technologies,42000,63000,90000
+Linguistics And Comparative Language And Literature,30000,48000,70000
+French German Latin And Other Common Foreign Language Studies,33500,48000,69000
+Other Foreign Languages,30000,45000,75000
+Family And Consumer Sciences,30000,40500,60000
+Court Reporting,34000,50000,75000
+Pre-Law And Legal Studies,34000,48000,70000
+English Language And Literature,32900,50000,75000
+Composition And Rhetoric,28800,40000,65000
+Liberal Arts,33000,50000,75000
+Humanities,30000,46700,70000
+Library Science,30000,40000,55000
+Biology,35000,51000,80000
+Biochemical Sciences,33000,53000,82000
+Botany,32000,50000,75000
+Molecular Biology,30000,45000,70000
+Ecology,32000,47500,73000
+Genetics,33000,48000,80000
+Microbiology,40000,60000,85000
+Pharmacology,35000,60000,105000
+Physiology,30000,50000,75000
+Zoology,34000,55000,85000
+Neuroscience,28000,35000,52000
+Miscellaneous Biology,33500,52000,72800
+Mathematics,42000,66000,100000
+Applied Mathematics,47000,70000,106000
+Statistics And Decision Science,43000,70000,102000
+Military Technologies,39750,64000,90000
+Multi/Interdisciplinary Studies,32000,43000,55000
+Intercultural And International Studies,30000,45000,69000
+Nutrition Sciences,34000,49500,69000
+Mathematics And Computer Science,53000,92000,136000
+Cognitive Science And Biopsychology,31500,53000,93000
+Interdisciplinary Social Sciences,33000,45000,67000
+Physical Fitness Parks Recreation And Leisure,30000,44000,60000
+Philosophy And Religious Studies,30000,45000,70000
+Theology And Religious Vocations,27000,40000,56000
+Physical Sciences,38000,60000,89000
+Astronomy And Astrophysics,40000,80000,106000
+Atmospheric Sciences And Meteorology,39000,60000,90000
+Chemistry,38700,59000,90000
+Geology And Earth Science,42000,65000,100000
+Geosciences,36000,57000,80000
+Oceanography,40000,55000,90000
+Physics,40000,70000,110000
+Materials Science,60000,75000,100000
+Multi-Disciplinary Or General Science,38000,56000,85000
+"Nuclear, Industrial Radiology, And Biological Technologies",45000,62000,80000
+Psychology,31000,45000,68000
+Educational Psychology,33000,40000,70000
+Clinical Psychology,26100,45000,62000
+Counseling Psychology,25000,39000,50000
+Industrial And Organizational Psychology,40000,62000,84000
+Social Psychology,35000,47000,70000
+Miscellaneous Psychology,30000,45000,70000
+Criminal Justice And Fire Protection,35000,50000,74000
+Public Administration,40000,56000,85000
+Public Policy,38000,60000,90000
+Human Services And Community Organization,29000,38000,52000
+Social Work,30000,40000,53000
+General Social Sciences,35000,50000,75000
+Economics,42000,69000,110000
+Anthropology And Archeology,30000,43000,68000
+Criminology,35000,49000,72000
+Geography,38300,54000,78000
+International Relations,40000,55000,89000
+Political Science And Government,38000,58000,90000
+Sociology,33000,47000,70000
+Miscellaneous Social Sciences,40000,52000,80000
+Construction Services,45000,65000,95000
+"Electrical, Mechanical, And Precision Technologies And Production",32000,48000,75000
+Transportation Sciences And Technologies,42500,67000,98000
+Fine Arts,30000,45000,70000
+Drama And Theater Arts,29000,42000,62000
+Music,30000,45000,67000
+Visual And Performing Arts,27000,40000,59000
+Commercial Art And Graphic Design,32000,46600,70000
+Film Video And Photographic Arts,30000,47000,70000
+Art History And Criticism,30000,44500,70000
+Studio Arts,24900,37600,58000
+Miscellaneous Fine Arts,30000,45000,60000
+General Medical And Health Services,35000,50000,73000
+Communication Disorders Sciences And Services,30000,42000,60000
+Health And Medical Administrative Services,35000,50000,75000
+Medical Assisting Services,37000,55000,75000
+Medical Technologies Technicians,45000,60000,76000
+Health And Medical Preparatory Programs,34000,50000,85000
+Nursing,48000,62000,80000
+Pharmacy Pharmaceutical Sciences And Administration,78000,106000,125000
+Treatment Therapy Professions,40000,61000,80000
+Community And Public Health,32800,47000,70000
+Miscellaneous Health Medical Professions,32000,45000,62000
+General Business,40000,60000,95000
+Accounting,42500,65000,100000
+Actuarial Science,53000,72000,115000
+Business Management And Administration,39500,58000,86000
+Operations Logistics And E-Commerce,45000,65000,90000
+Business Economics,45000,65000,100000
+Marketing And Marketing Research,38500,56000,90000
+Finance,45000,65000,100000
+Human Resources And Personnel Management,38000,54000,80000
+International Business,38600,54000,80000
+Hospitality Management,33000,49000,70000
+Management Information Systems And Statistics,50000,72000,100000
+Miscellaneous Business & Medical Administration,36000,53000,83000
+History,35000,50000,80000
+United States History,39000,50000,81000

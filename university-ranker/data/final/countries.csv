@@ -1,0 +1,138 @@
+Name,LivingCostScore,SafetyScore,RightsScore,ClimateScore
+Australia,23,100,92,90
+San Marino,61,87,82,62
+Hong Kong,61,97,85,49
+Switzerland,44,99,99,34
+Macao,61,93,71,48
+Malta,41,92,72,75
+Luxembourg,46,100,99,25
+Bermuda,34,93,78,68
+Singapore,55,100,89,45
+Spain,43,95,73,74
+Japan,27,97,86,58
+Austria,37,98,91,27
+Portugal,44,93,77,68
+Canada,37,97,92,33
+Germany,44,95,94,21
+Norway,42,99,99,16
+South Korea,42,95,75,56
+Cyprus,53,93,68,75
+New Zealand,26,95,100,35
+Sweden,40,96,99,20
+France,29,93,83,41
+Finland,46,93,100,17
+Denmark,35,95,100,17
+Netherlands,40,96,98,20
+Uruguay,47,82,79,77
+United States,37,85,81,66
+United Arab Emirates,67,93,65,62
+Slovenia,57,96,73,40
+Czechia,49,93,73,22
+Qatar,70,94,60,60
+Croatia,67,91,58,57
+Israel,36,81,72,81
+Greece,44,88,61,69
+Poland,58,93,67,26
+Italy,30,89,65,57
+Hungary,56,88,57,42
+Chile,54,87,79,47
+Iceland,36,97,92,7
+Belgium,32,92,87,20
+Estonia,43,92,89,17
+Ireland,35,96,90,2
+Bulgaria,62,85,51,50
+United Kingdom,34,95,91,6
+Slovakia,42,89,67,34
+Saudi Arabia,76,90,45,52
+Latvia,55,87,74,19
+Lithuania,43,88,75,20
+Bahrain,72,92,45,63
+Oman,68,92,51,43
+North Macedonia,64,87,48,56
+Romania,68,88,57,37
+Thailand,55,96,40,46
+Malaysia,46,91,58,44
+Costa Rica,46,73,69,44
+Georgia,58,88,63,44
+Maldives,59,87,39,62
+Samoa,58,83,63,46
+China,38,90,37,56
+Kuwait,74,88,47,32
+Paraguay,66,76,37,78
+Argentina,41,78,44,77
+Montenegro,61,85,52,53
+Morocco,45,87,40,81
+Peru,50,84,46,70
+Tunisia,47,82,49,79
+Sri Lanka,56,92,43,57
+Albania,57,84,43,55
+Ecuador,61,88,36,57
+Mongolia,70,72,44,44
+Bosnia and Herzegovina,70,86,38,49
+Armenia,57,93,51,50
+Jordan,63,77,48,52
+Turkey,59,87,38,62
+Serbia,57,87,44,51
+Senegal,56,91,47,52
+Rwanda,58,72,48,60
+South Africa,49,43,54,95
+India,45,79,46,67
+Algeria,55,97,24,78
+Mexico,34,52,37,83
+Kazakhstan,60,82,36,40
+Vietnam,51,76,35,52
+Indonesia,54,98,44,39
+Bolivia,51,68,28,85
+Moldova,62,84,41,40
+Trinidad and Tobago,48,39,50,51
+Timor-Leste,67,42,37,72
+Ukraine,60,82,36,33
+Egypt,59,83,26,68
+Brazil,44,60,45,65
+Dominican Republic,49,67,41,60
+Jamaica,47,37,52,73
+Madagascar,66,86,28,77
+Tanzania,56,57,34,88
+Russia,62,75,26,33
+Ghana,42,95,51,56
+Nepal,57,89,35,56
+Malawi,50,78,38,82
+Kenya,45,72,33,92
+Suriname,62,73,43,35
+Laos,73,76,19,48
+Colombia,46,30,46,61
+Pakistan,63,92,26,72
+Philippines,46,67,39,49
+Gambia,58,79,38,57
+Kyrgyzstan,71,58,27,48
+Azerbaijan,64,38,24,56
+Honduras,57,43,26,78
+Guatemala,45,71,28,61
+Bangladesh,61,74,26,50
+Lebanon,41,76,25,71
+El Salvador,50,21,39,66
+Belarus,40,81,28,22
+Cambodia,66,68,19,52
+Uganda,57,62,30,71
+Zambia,58,60,32,68
+Lesotho,57,24,40,89
+Gabon,46,52,25,44
+Burma,73,63,24,50
+Nicaragua,41,73,18,61
+Togo,54,75,29,50
+Tajikistan,51,58,13,48
+Ivory Coast,57,58,36,52
+Iran,43,79,15,56
+Ethiopia,63,31,31,81
+Burundi,66,62,11,76
+Sierra Leone,64,69,34,43
+Zimbabwe,37,74,14,91
+Angola,53,55,24,63
+Mozambique,53,4,26,80
+Afghanistan,63,19,9,58
+Iraq,75,29,12,37
+Cameroon,51,27,19,60
+Nigeria,57,23,24,53
+Chad,49,31,12,50
+Sudan,66,55,11,40
+Congo (Dem. Republic),60,10,7,54

@@ -1,0 +1,1497 @@
+Name,Location,OverallScore,TeachingScore,ResearchScore,EmployerScore,Population
+Massachusetts Institute of Technology,United States,97.9,98.6,96.2,100.0,11085.0
+University of Cambridge,United Kingdom,97.5,95.8,100.0,100.0,20565.0
+University of Oxford,United Kingdom,98.5,96.6,100.0,100.0,21750.0
+Harvard University,United States,97.8,97.7,99.9,100.0,20050.0
+Stanford University,United States,98.0,99.0,97.8,100.0,14517.0
+Imperial College London,United Kingdom,95.1,90.9,95.5,99.4,20275.0
+ETH Zurich - Swiss Federal Institute of Technology,Switzerland,,,,83.6,
+National University of Singapore,Singapore,90.0,78.8,94.0,88.6,33334.0
+UCL,United Kingdom,88.1,78.4,86.4,97.9,41110.0
+"University of California, Berkeley",United States,94.6,87.2,98.8,100.0,39991.0
+University of Chicago,United States,92.1,89.6,91.2,95.4,15792.0
+University of Pennsylvania,United States,91.0,87.7,89.7,89.1,21312.0
+Cornell University,United States,89.5,85.7,88.7,90.5,23620.0
+University of Melbourne,Australia,79.2,64.8,76.4,92.3,51307.0
+California Institute of Technology,United States,96.5,96.6,98.0,93.7,2240.0
+Yale University,United States,94.2,94.0,94.9,99.9,11924.0
+Peking University,China (Mainland),91.8,95.6,97.3,95.4,33064.0
+Princeton University,United States,96.9,96.3,97.9,97.5,7753.0
+University of New South Wales,Australia,,,,88.1,
+University of Sydney,Australia,73.8,52.6,68.9,87.7,57414.0
+University of Toronto,Canada,88.6,77.5,94.1,96.0,79282.0
+University of Edinburgh,United Kingdom,82.5,70.7,77.5,96.9,33940.0
+Columbia University,United States,90.9,88.6,89.7,98.3,25914.0
+Université PSL,France,,,,97.0,
+Tsinghua University,China (Mainland),92.4,95.3,98.1,96.9,38518.0
+"Nanyang Technological University, Singapore",Singapore,82.3,66.2,80.9,67.1,25895.0
+University of Hong Kong,Hong Kong SAR,80.3,65.6,72.3,51.4,18103.0
+Johns Hopkins University,United States,91.1,84.4,92.3,59.7,15772.0
+University of Tokyo,Japan,83.1,93.9,94.2,99.8,26345.0
+"University of California, Los Angeles",United States,90.1,85.7,91.9,99.8,42634.0
+McGill University,Canada,76.0,62.3,72.3,87.6,30821.0
+University of Manchester,United Kingdom,75.6,61.4,67.1,98.0,40725.0
+University of Michigan-Ann Arbor,United States,87.4,84.7,87.4,89.9,45783.0
+Australian National University,Australia,72.6,55.9,68.0,70.2,17293.0
+University of British Columbia,Canada,78.0,62.5,76.6,93.5,58987.0
+EPFL,Switzerland,,,,59.9,
+Technical University of Munich,Germany,82.5,69.8,85.1,98.2,35506.0
+Institut Polytechnique de Paris,France,71.3,71.0,61.6,99.6,6073.0
+New York University,United States,83.5,73.2,84.0,98.5,48461.0
+King's College London,United Kingdom,,,,82.3,
+Seoul National University,South Korea,73.4,74.2,75.3,98.2,28620.0
+Monash University,Australia,75.2,55.3,67.8,75.2,58460.0
+University of Queensland,Australia,72.0,52.9,64.3,73.7,42847.0
+Zhejiang University,China (Mainland),75.0,70.2,75.3,95.7,48169.0
+London School of Economics and Political Science,United Kingdom,76.8,59.5,73.5,96.1,11945.0
+Kyoto University,Japan,75.0,85.4,84.3,99.1,21817.0
+Delft University of Technology,Netherlands,76.3,66.7,78.2,79.0,21262.0
+Northwestern University,United States,83.2,72.3,78.8,60.2,18894.0
+Chinese University of Hong Kong,Hong Kong SAR,75.4,59.1,61.5,46.3,18290.0
+Fudan University,China (Mainland),77.5,76.5,75.3,89.8,38101.0
+Shanghai Jiao Tong University,China (Mainland),77.7,76.6,82.5,83.3,38472.0
+Carnegie Mellon University,United States,86.3,75.0,84.6,75.3,13562.0
+University of Amsterdam,Netherlands,73.6,55.0,63.1,44.2,28649.0
+Ludwig-Maximilians-Universität München,Germany,,,,83.5,
+University of Bristol,United Kingdom,69.8,48.7,56.5,84.7,27335.0
+KAIST - Korea Advanced Institute of Science & Technology,South Korea,,,,88.8,
+Duke University,United States,83.9,79.3,76.1,69.3,15527.0
+University of Texas at Austin,United States,75.5,66.0,75.7,83.2,48558.0
+Sorbonne University,France,70.5,64.7,60.8,53.2,41527.0
+Hong Kong University of Science and Technology,Hong Kong SAR,73.0,54.0,62.1,42.6,9794.0
+KU Leuven,Belgium,77.0,60.1,74.9,42.4,49435.0
+"University of California, San Diego",United States,81.0,66.0,78.4,50.4,40596.0
+University of Washington,United States,85.3,78.0,83.5,50.4,49486.0
+University of Illinois at Urbana-Champaign,United States,77.9,69.5,81.5,70.8,50250.0
+Hong Kong Polytechnic University,Hong Kong SAR,68.2,45.7,54.1,30.2,20034.0
+Universiti Malaya,Malaysia,,,,96.0,
+University of Warwick,United Kingdom,66.1,48.1,52.1,88.0,24905.0
+University of Auckland,New Zealand,62.0,39.7,45.7,40.8,35663.0
+National Taiwan University,Taiwan,,,,91.3,
+City University of Hong Kong,Hong Kong SAR,69.3,52.2,52.4,27.3,9076.0
+Université Paris-Saclay,France,74.4,70.9,66.1,99.1,31662.0
+University of Western Australia,Australia,62.7,37.7,48.6,44.6,19382.0
+Brown University,United States,73.0,69.8,59.6,42.4,9781.0
+KTH Royal Institute of Technology ,Sweden,,,,51.1,
+University of Leeds,United Kingdom,63.9,46.1,49.1,76.7,33450.0
+University of Glasgow,United Kingdom,68.2,48.1,51.8,70.7,32270.0
+Yonsei University,South Korea,,,,96.3,
+Durham University,United Kingdom,60.6,43.5,44.5,89.3,19575.0
+Korea University,South Korea,57.2,48.6,46.6,94.0,22324.0
+Osaka University,Japan,60.4,62.5,65.7,89.1,22274.0
+"Trinity College Dublin, The University of Dublin",Ireland,,,,39.8,
+University of Southampton,United Kingdom,66.9,48.9,50.1,51.2,19920.0
+Pennsylvania State University,United States,,,,63.0,
+University of Birmingham,United Kingdom,66.6,46.1,49.3,75.7,32625.0
+Lund University,Sweden,66.1,46.7,56.6,47.5,30349.0
+Universidade de São Paulo,Brazil,,,,82.9,
+Lomonosov Moscow State University,Russia,67.0,87.5,75.2,78.3,32680.0
+Ruprecht-Karls-Universität Heidelberg,Germany,,,,52.0,
+University of Adelaide,Australia,65.8,42.4,50.6,36.5,23792.0
+University of Technology Sydney,Australia,62.3,36.2,43.3,57.8,28223.0
+Tokyo Institute of Technology,Japan,59.2,59.5,63.3,94.8,9928.0
+University of Zurich,Switzerland,69.9,54.8,53.4,27.6,25608.0
+Boston University,United States,70.1,59.6,54.1,68.3,26677.0
+Universidad Nacional Autónoma de México,Mexico,,,,98.2,
+Universidad de Buenos Aires,Argentina,,,,98.0,
+University of St Andrews,United Kingdom,59.0,46.0,42.6,67.2,10325.0
+Georgia Institute of Technology,United States,80.0,63.4,78.9,85.1,32079.0
+Freie Universitaet Berlin,Germany,,,,51.0,
+Purdue University,United States,,,,81.2,
+Pohang University of Science And Technology,South Korea,,,,75.9,
+University of Nottingham,United Kingdom,63.8,45.6,45.9,72.1,33520.0
+University of Wisconsin-Madison,United States,73.3,68.5,67.5,47.8,41209.0
+Pontificia Universidad Católica de Chile,Chile,47.2,29.7,34.3,99.5,30448.0
+University of Sheffield,United Kingdom,66.2,48.0,49.5,52.3,27860.0
+Uppsala University,Sweden,62.8,43.9,55.0,30.5,24749.0
+RWTH Aachen University,Germany,68.0,54.9,64.8,93.0,34914.0
+University of Copenhagen,Denmark,66.3,49.2,51.1,25.8,31728.0
+Utrecht University,Netherlands,,,,31.6,
+Aalto University,Finland,57.2,42.0,43.1,41.8,14427.0
+Newcastle University,United Kingdom,60.8,37.2,41.1,74.5,25650.0
+University of Alberta,Canada,65.9,50.1,55.5,36.5,33730.0
+University of Waterloo,Canada,61.7,42.2,49.3,66.7,36904.0
+Tohoku University,Japan,63.8,67.8,66.4,84.2,17409.0
+Western University,Canada,57.2,40.2,42.9,47.4,30176.0
+University of Helsinki,Finland,65.1,48.1,57.6,32.3,22887.0
+University of Southern California,United States,70.8,59.2,58.8,47.6,44083.0
+University of Oslo,Norway,64.3,45.6,50.6,11.2,20967.0
+Stockholm University,Sweden,59.6,32.1,49.6,15.2,29774.0
+"KIT, Karlsruhe Institute of Technology",Germany,,,,76.8,
+Humboldt-Universität zu Berlin,Germany,,,,65.9,
+Technical University of Denmark,Denmark,64.6,50.7,47.4,16.3,10410.0
+Lancaster University,United Kingdom,61.8,40.2,40.7,40.2,15385.0
+Politecnico di Milano,Italy,57.2,42.9,49.7,71.2,38978.0
+Eindhoven University of Technology,Netherlands,60.8,47.4,51.5,76.2,10611.0
+University of Basel,Switzerland,64.9,50.8,42.9,17.8,8536.0
+Leiden University,Netherlands,70.2,46.0,62.7,26.8,35072.0
+University of Bern,Switzerland,65.4,45.1,47.0,24.4,12399.0
+University of Geneva,Switzerland,59.8,41.8,38.0,14.1,18865.0
+Chalmers University of Technology,Sweden,59.4,42.7,46.6,51.5,10103.0
+Macquarie University,Australia,60.1,36.7,44.2,41.0,30371.0
+University of Vienna,Austria,65.2,48.7,60.3,42.5,31318.0
+"University of California, Davis",United States,74.1,63.7,67.8,44.7,37926.0
+"University of North Carolina, Chapel Hill",United States,,,,33.9,
+Sapienza University of Rome,Italy,60.0,53.5,48.1,41.0,60522.0
+Texas A&M University,United States,65.3,55.2,62.1,59.6,64427.0
+Michigan State University,United States,65.4,54.8,52.3,49.4,44514.0
+Universiti Sains Malaysia,Malaysia,47.2,42.9,27.8,74.7,24850.0
+University of Science and Technology of China,China (Mainland),74.8,74.3,66.3,17.5,20252.0
+University of Groningen,Netherlands,70.0,47.5,57.2,29.9,31942.0
+RMIT University,Australia,54.5,35.5,36.2,49.6,32574.0
+Nanjing University,China (Mainland),70.9,64.0,61.7,25.4,36711.0
+Université de Montréal ,Canada,,,,34.5,
+Aarhus University,Denmark,65.9,44.9,59.0,24.7,26996.0
+King Abdulaziz University,Saudi Arabia,54.5,37.8,28.6,61.6,60540.0
+Queen Mary University of London,United Kingdom,63.1,37.6,42.6,32.8,22205.0
+Rice University,United States,65.2,56.4,45.6,22.9,7318.0
+Sungkyunkwan University,South Korea,,,,71.6,
+University of Bath,United Kingdom,54.5,34.7,35.1,74.3,15280.0
+Indian Institute of Technology Bombay,India,,,,81.9,
+Universitat Autònoma de Barcelona,Spain,,,,39.0,
+Ohio State University,United States,,,,55.8,
+Wageningen University & Research,Netherlands,73.0,56.4,59.8,19.0,15899.0
+University of Exeter,United Kingdom,60.2,33.5,42.5,51.1,27190.0
+Alma Mater Studiorum - University of Bologna,Italy,,,,40.0,
+Cardiff University,United Kingdom,59.3,35.5,39.6,48.3,28815.0
+Technische Universität Berlin,Germany,,,,69.3,
+Washington University in St. Louis,United States,,,,10.4,
+Universiti Putra Malaysia,Malaysia,43.6,36.0,30.5,67.5,19001.0
+Ghent University,Belgium,65.6,47.2,59.3,25.2,41487.0
+Universidad de Chile,Chile,,,,96.6,
+Universiti Kebangsaan Malaysia,Malaysia,47.2,45.7,27.8,70.1,16764.0
+University of Wollongong,Australia,57.2,36.8,39.3,25.1,16328.0
+"University of California, Santa Barbara",United States,72.1,47.4,64.7,19.0,25540.0
+Hanyang University,South Korea,52.0,45.4,40.4,81.3,19344.0
+Kyushu University,Japan,52.0,55.0,47.5,70.0,18220.0
+Universitat de Barcelona,Spain,,,,23.0,
+University of York,United Kingdom,62.4,42.4,44.8,35.3,19505.0
+University of Florida,United States,63.7,55.5,56.7,58.7,48114.0
+"University of Maryland, College Park",United States,65.7,49.4,58.1,26.1,33988.0
+University of Reading,United Kingdom,57.2,37.5,40.6,39.3,15945.0
+Complutense University of Madrid,Spain,43.6,40.3,29.4,69.3,59814.0
+University College Dublin,Ireland,57.2,34.3,41.3,41.3,23405.0
+Qatar University,Qatar,54.5,31.3,35.6,43.9,10081.0
+"University of Newcastle, Australia",Australia,,,,26.9,
+University of Cape Town,South Africa,60.9,38.7,47.0,51.0,21961.0
+Erasmus University Rotterdam ,Netherlands,,,,50.9,
+Nagoya University,Japan,57.2,55.3,55.7,65.1,15224.0
+University of Liverpool,United Kingdom,60.8,38.4,40.2,35.0,25955.0
+Arizona State University,United States,,,,36.7,
+King Fahd University of Petroleum & Minerals,Saudi Arabia,,,,36.5,
+Université catholique de Louvain,Belgium,,,,30.8,
+University of Calgary,Canada,57.2,36.5,41.4,61.2,34012.0
+Curtin University,Australia,57.2,30.2,36.5,31.8,29283.0
+École Normale Supérieure de Lyon,France,54.5,58.5,46.8,14.4,2024.0
+Technische Universität Wien,Austria,,,,44.4,
+Tecnológico de Monterrey,Mexico,,,,96.8,
+University of Gothenburg,Sweden,57.2,34.0,43.4,16.9,21698.0
+Universiti Teknologi Malaysia ,Malaysia,,,,63.8,
+McMaster University,Canada,66.3,43.8,51.3,38.2,28254.0
+Queensland University of Technology,Australia,58.7,33.9,42.1,37.6,35164.0
+Universite libre de Bruxelles,Belgium,,,,38.9,
+Albert-Ludwigs-Universitaet Freiburg,Germany,,,,19.8,
+Ecole des Ponts ParisTech,France,,,,57.9,
+Wuhan University,China (Mainland),61.3,50.9,45.0,44.0,56066.0
+University of Minnesota Twin Cities,United States,,,,30.2,
+Hokkaido University,Japan,50.0,51.2,44.0,66.0,17659.0
+Indian Institute of Technology Delhi,India,,,,75.9,
+Universidad de los Andes,Colombia,,,,95.7,
+Emory University,United States,66.1,53.1,45.7,16.4,13127.0
+Universidad Autónoma de Madrid,Spain,,,,57.7,
+Waseda University,Japan,34.8,33.7,26.2,97.3,46013.0
+Queen's University Belfast,United Kingdom,,,,30.3,
+King Saud University,Saudi Arabia,47.2,31.4,19.9,21.3,50906.0
+University of Ottawa,Canada,60.2,39.6,46.5,29.7,38366.0
+Universität Hamburg,Germany,,,,28.7,
+University of Otago,New Zealand,52.0,35.6,35.1,27.1,19350.0
+Vrije Universiteit Amsterdam,Netherlands,64.7,40.4,51.0,15.7,31704.0
+University of Aberdeen,United Kingdom,57.2,36.4,35.8,32.5,12755.0
+Queen's University at Kingston,Canada,,,,56.7,
+University of Twente,Netherlands,59.7,43.4,46.0,38.3,9964.0
+Chulalongkorn University,Thailand,39.4,36.7,32.2,50.1,34552.0
+Loughborough University,United Kingdom,54.5,36.5,34.4,66.8,16110.0
+Eberhard Karls Universität Tübingen,Germany,,,,29.9,
+Keio University,Japan,39.4,36.9,27.0,93.5,33577.0
+Tel Aviv University,Israel,57.2,40.7,49.7,23.6,24995.0
+Tongji University,China (Mainland),59.6,50.0,53.6,13.1,31632.0
+National Yang Ming Chiao Tung University,Taiwan,47.2,44.0,44.3,67.9,16944.0
+University of Sussex,United Kingdom,57.2,29.7,35.6,8.9,17640.0
+Università di Padova,Italy,,,,22.0,
+Universidade Estadual de Campinas,Brazil,,,,50.1,
+University of Lausanne,Switzerland,62.7,41.7,46.3,15.1,14478.0
+Radboud University ,Netherlands,,,,13.9,
+University of Pittsburgh,United States,,,,15.2,
+University of Rochester,United States,63.6,50.8,42.9,18.4,9855.0
+Indian Institute of Science,India,57.2,62.9,57.8,20.0,4495.0
+American University of Beirut,Lebanon,43.6,29.7,17.9,41.6,8722.0
+Universidad Nacional de Colombia,Colombia,,,,96.8,
+National Cheng Kung University,Taiwan,,,,75.6,
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,,,,20.9,
+Al-Farabi Kazakh National University,Kazakhstan,25.5,24.8,11.1,74.9,24303.0
+Khalifa University of Science and Technology,United Arab Emirates,,,,20.4,
+University of Göttingen,Germany,65.8,50.0,54.8,29.0,23349.0
+Deakin University,Australia,54.5,28.3,34.6,25.8,40988.0
+National Tsing Hua University,Taiwan,47.2,38.9,42.3,67.7,13979.0
+Heriot-Watt University,United Kingdom,50.0,34.3,33.4,21.1,9735.0
+Université de Paris-Cité,France,,,,5.9,
+Dartmouth College,United States,61.4,57.3,40.7,24.2,6226.0
+Universitas Indonesia,Indonesia,,,,73.0,
+Massey University,New Zealand,43.6,28.7,28.2,16.0,17883.0
+Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,,,,19.8,
+Victoria University of Wellington,New Zealand,47.2,28.6,34.1,25.5,18231.0
+La Trobe University,Australia,54.5,28.9,35.4,20.2,19172.0
+Griffith University,Australia,54.5,30.5,37.8,16.2,34770.0
+University of Surrey,United Kingdom,54.5,31.3,34.5,23.4,14630.0
+University of Massachusetts Amherst,United States,,,,11.9,
+Technical University of Darmstadt,Germany,54.5,42.4,48.1,37.5,15882.0
+Technische Universität Dresden,Germany,,,,37.7,
+Charles University,Czech Republic,47.2,38.8,33.1,43.5,51728.0
+University of Antwerp,Belgium,61.4,38.2,44.4,11.8,16168.0
+University of Waikato,New Zealand,47.2,26.1,31.0,13.2,10538.0
+Hebrew University of Jerusalem,Israel,52.0,46.4,36.3,29.1,19267.0
+Politecnico di Torino,Italy,,,,44.9,
+University of Porto,Portugal,47.2,31.3,35.4,22.9,36386.0
+University of Macau,Macau SAR,59.0,38.4,38.1,14.2,10908.0
+Case Western Reserve University,United States,61.3,51.7,40.2,17.1,10294.0
+Harbin Institute of Technology,China (Mainland),60.8,58.8,55.1,14.9,30933.0
+Maastricht University ,Netherlands,,,,22.3,
+University of Canterbury | Te Whare Wānanga o Waitaha,New Zealand,,,,33.1,
+Vrije Universiteit Brussel,Belgium,57.2,37.8,42.6,16.8,14931.0
+University of Virginia,United States,,,,32.0,
+Vanderbilt University,United States,67.4,54.1,48.5,19.8,12971.0
+University of Warsaw ,Poland,,,,53.4,
+Gadjah Mada University,Indonesia,,,,66.5,
+University of Colorado Boulder,United States,62.9,46.5,51.9,13.5,35844.0
+University of Witwatersrand,South Africa,,,,43.0,
+Ulsan National Institute of Science and Technology,South Korea,,,,11.9,
+University of Lisbon ,Portugal,,,,21.0,
+Linköping University,Sweden,54.5,28.3,41.3,26.6,15233.0
+"University of California, Irvine",United States,67.4,47.1,53.8,16.6,35675.0
+University of Cologne,Germany,61.5,42.9,47.1,38.5,31299.0
+Indian Institute of Technology Kharagpur,India,,,,43.5,
+Beijing Normal University ,China (Mainland),,,,6.8,
+University of Leicester,United Kingdom,57.2,33.4,34.2,14.2,14000.0
+North Carolina State University,United States,54.5,46.0,41.4,25.0,31391.0
+Huazhong University of Science and Technology,China (Mainland),61.7,48.8,48.1,29.2,57663.0
+University of Milan,Italy,50.0,31.3,31.8,12.7,50995.0
+University of Strathclyde,United Kingdom,52.0,32.4,35.5,34.6,20400.0
+Indian Institute of Technology Kanpur,India,,,,49.3,
+University of Miami,United States,57.2,48.5,34.7,44.7,17060.0
+University of Navarra,Spain,52.0,35.6,30.4,61.2,11969.0
+Bandung Institute of Technology,Indonesia,,,,65.6,
+University of Bergen,Norway,54.5,36.7,33.9,5.4,15751.0
+Stellenbosch University,South Africa,52.0,33.8,39.5,39.4,25140.0
+Taylor's University,Malaysia,,,,82.8,
+Indian Institute of Technology Madras,India,,,,55.9,
+Swinburne University of Technology,Australia,57.2,31.7,34.0,12.0,14324.0
+University of Arizona,United States,61.8,48.7,51.3,18.4,45517.0
+Tianjin University,China (Mainland),57.2,46.1,47.6,8.6,26486.0
+University of Galway,Ireland,52.0,32.9,33.8,28.2,15734.0
+United Arab Emirates University,United Arab Emirates,52.0,27.0,34.5,37.8,8147.0
+Xi’an Jiaotong University,China (Mainland),54.5,46.9,48.0,42.2,45764.0
+Norwegian University of Science And Technology,Norway,,,,19.4,
+University College Cork,Ireland,52.0,28.3,31.6,36.3,18567.0
+Université Grenoble Alpes,France,52.0,42.2,37.9,10.1,51244.0
+Hong Kong Baptist University,Hong Kong SAR,52.0,34.0,28.9,12.6,7460.0
+University of East Anglia,United Kingdom,54.5,31.1,32.0,8.5,16475.0
+Georgetown University,United States,59.5,52.6,37.0,34.4,17508.0
+Dalhousie University,Canada,52.0,30.8,31.6,18.0,17314.0
+Rutgers University–New Brunswick,United States,,,,24.7,
+UCSI University,Malaysia,,,,58.4,
+Southern University of Science and Technology,China (Mainland),,,,2.1,
+Goethe-University Frankfurt am Main,Germany,,,,29.1,
+Virginia Polytechnic Institute and State University,United States,54.5,42.5,39.4,40.4,37225.0
+Jagiellonian University,Poland,39.4,38.4,29.0,47.2,34309.0
+University of Notre Dame,United States,58.7,51.9,42.6,32.2,12576.0
+University of Johannesburg,South Africa,47.2,28.6,36.3,21.4,31721.0
+Daegu Gyeongbuk Institute of Science and Technology,South Korea,,,,7.5,
+Swansea University,United Kingdom,54.5,27.6,30.2,45.0,18505.0
+Universiti Teknologi PETRONAS,Malaysia,,,,31.6,
+University of Tasmania,Australia,54.5,31.6,38.4,7.8,16894.0
+Hamad Bin Khalifa University,Qatar,,,,3.9,
+Universitat Pompeu Fabra,Spain,,,,22.8,
+Universität Stuttgart,Germany,,,,27.2,
+Indiana University Bloomington,United States,,,,24.4,
+University of Oulu,Finland,54.5,33.1,38.2,17.3,10719.0
+Quaid-i-Azam University,Pakistan,47.2,29.7,24.1,40.3,11386.0
+Saint Petersburg State University,Russia,,,,24.0,
+University of Turku,Finland,52.0,31.6,34.9,21.1,13528.0
+Simon Fraser University,Canada,54.5,28.7,36.7,13.5,27269.0
+Bauman Moscow State Technical University,Russia,47.2,71.7,43.9,44.4,16061.0
+Sciences Po ,France,,,,27.6,
+Universidad Carlos III de Madrid,Spain,,,,49.1,
+University of Victoria,Canada,50.0,27.4,31.2,7.6,21486.0
+Sun Yat-sen University,China (Mainland),57.2,46.6,39.5,22.3,61453.0
+University of Illinois at Chicago,United States,,,,23.5,
+University of Pretoria,South Africa,43.6,31.2,34.3,52.3,37315.0
+University of South Australia,Australia,52.0,25.0,36.8,14.0,22822.0
+University of Southern Denmark,Denmark,54.5,29.8,33.5,18.0,18279.0
+"City, University of London",United Kingdom,50.0,27.4,30.9,18.1,16080.0
+Gwangju Institute of Science and Technology,South Korea,,,,8.9,
+Université Paris 1 Panthéon-Sorbonne ,France,,,,24.9,
+USI - Università della Svizzera italiana,Switzerland,,,,3.9,
+Kyung Hee University,South Korea,54.5,40.3,40.0,41.6,20427.0
+"University of California, Santa Cruz",United States,57.2,34.9,39.8,4.9,19154.0
+Sharif University of Technology,"Iran, Islamic Republic of",52.0,39.1,37.4,43.8,9389.0
+University of Naples - Federico II,Italy,,,,17.0,
+Aalborg University,Denmark,57.2,33.7,45.0,22.2,17275.0
+Middle East Technical University,Turkey,50.0,44.2,43.1,63.7,16182.0
+Pontificia Universidad Católica del Perú,Peru,,,,77.1,
+University of Kent,United Kingdom,47.2,27.6,29.0,6.7,16515.0
+Beijing Institute of Technology,China (Mainland),54.5,45.1,44.0,18.1,34050.0
+George Washington University,United States,57.2,48.2,35.7,24.5,22211.0
+RUDN University,Russia,39.4,39.1,23.0,45.0,22866.0
+Brunel University London,United Kingdom,50.0,25.2,26.5,13.3,14130.0
+University of Aveiro,Portugal,39.4,27.1,30.2,6.6,13563.0
+Airlangga University,Indonesia,,,,72.5,
+University of Saskatchewan,Canada,50.0,39.0,35.1,6.8,17924.0
+National Technical University of Athens,Greece,39.4,26.3,23.0,42.7,13532.0
+Pontificia Universidad Javeriana,Colombia,,,,72.7,
+Universidad Politécnica de Madrid,Spain,,,,49.3,
+University of Pisa,Italy,47.2,31.1,31.2,12.7,31567.0
+Lappeenranta-Lahti University of Technology LUT,Finland,54.5,33.4,36.7,13.3,5028.0
+University of Coimbra,Portugal,47.2,31.4,38.2,13.1,21767.0
+York University,Canada,50.0,28.2,32.4,21.0,44038.0
+Universitat Politècnica de Catalunya · BarcelonaTech,Spain,,,,22.0,
+L.N. Gumilyov Eurasian National University,Kazakhstan,16.2,21.9,11.6,51.7,19632.0
+Sichuan University,China (Mainland),62.0,59.1,57.3,7.6,49117.0
+University of Tsukuba,Japan,50.0,51.8,42.6,24.0,15506.0
+University of Florence,Italy,50.0,35.5,34.4,5.7,40535.0
+University of Tartu,Estonia,52.0,32.8,31.8,9.0,9694.0
+Shandong University,China (Mainland),,,,31.8,
+University of Tehran,"Iran, Islamic Republic of",47.2,37.7,28.4,38.8,54890.0
+Lincoln University ,New Zealand,,,,5.3,
+Universität Innsbruck,Austria,,,,7.0,
+American University of Sharjah,United Arab Emirates,39.4,24.5,26.3,39.1,4737.0
+Indian Institute of Technology Guwahati,India,39.4,35.5,24.1,25.2,8157.0
+University of Turin,Italy,47.2,23.0,30.1,5.7,63232.0
+National University of Sciences And TechnologyIslamabad,Pakistan,,,,72.7,
+University of Cyprus,Cyprus,43.6,22.5,25.8,3.1,6907.0
+Indian Institute of Technology Roorkee,India,,,,22.5,
+Yeshiva University,United States,,,,3.3,
+Cairo University,Egypt,34.8,25.0,18.5,33.2,202915.0
+Tilburg University,Netherlands,57.2,32.8,44.9,33.4,13225.0
+Universidade Federal do Rio de Janeiro,Brazil,,,,17.0,
+"Birkbeck, University of London",United Kingdom,,,,3.5,
+ Western Sydney University,Australia,,,,15.0,
+Amirkabir University of Technology,"Iran, Islamic Republic of",50.0,34.8,33.7,33.4,9859.0
+Northeastern University,United States,,,,9.5,
+Ruhr-Universität Bochum,Germany,,,,11.0,
+Tufts University,United States,59.2,51.5,35.0,5.3,11611.0
+Flinders University,Australia,52.0,29.2,35.4,6.7,17422.0
+University of Luxembourg,Luxembourg,57.2,39.6,39.4,4.9,5599.0
+Mahidol University,Thailand,39.4,39.3,25.0,30.3,28790.0
+Université de Montpellier,France,,,,3.4,
+Nankai University,China (Mainland),54.5,48.8,31.4,8.6,31416.0
+Westfälische Wilhelms-Universität Münster ,Germany,,,,24.6,
+University of Hawaiʻi at Mānoa,United States,,,,8.5,
+Aix-Marseille University,France,50.0,43.0,27.2,4.5,72946.0
+Belarusian State University,Belarus,25.5,25.5,11.5,42.5,23030.0
+Concordia University,Canada,43.6,25.7,29.3,15.2,36749.0
+National Taiwan University of Science and Technology,Taiwan,,,,37.8,
+Universiti Brunei Darussalam,Brunei,47.2,28.5,28.9,5.5,3503.0
+Institut National des Sciences Appliquées de Lyon,France,,,,29.4,
+South China University of Technology,China (Mainland),54.5,36.6,38.2,4.2,40449.0
+Technion - Israel Institute of Technology,Israel,,,,27.8,
+Xiamen University,China (Mainland),52.0,38.0,33.5,11.6,44715.0
+Justus-Liebig-University Giessen,Germany,,,,6.1,
+KazanFederal University,Russia,,,,7.6,
+"Stony Brook University, State University of New York",United States,,,,7.6,
+HSE University,Russia,47.2,34.4,44.0,31.9,34656.0
+Iowa State University,United States,50.0,39.5,34.5,13.5,28591.0
+Masaryk University,Czech Republic,39.4,25.9,31.0,32.2,32789.0
+Universidade Nova de Lisboa,Portugal,,,,20.2,
+University of Granada,Spain,43.6,28.5,26.6,9.8,55523.0
+Istanbul Technical University,Turkey,43.6,35.8,36.6,60.4,19055.0
+"University of California, Riverside",United States,54.5,35.9,35.4,7.0,25670.0
+University of the Philippines,Philippines,25.5,25.4,15.3,58.9,53676.0
+Auckland University of Technology,New Zealand,47.2,23.8,21.2,11.7,18592.0
+University of Delhi,India,34.8,40.4,24.2,28.2,29532.0
+Colorado State University,United States,,,,18.2,
+Universidad de Santiago de Chile,Chile,,,,72.9,
+University of Kansas,United States,50.0,42.7,25.9,13.3,23410.0
+University of Southern Queensland ,Australia,,,,6.8,
+Oxford Brookes University,United Kingdom,39.4,25.1,21.1,29.7,13860.0
+Royal Holloway University of London,United Kingdom,,,,5.7,
+James Cook University,Australia,50.0,28.3,30.9,8.7,9759.0
+Moscow Institute of Physics and Technology,Russia,,,,19.9,
+American University in Cairo,Egypt,34.8,26.7,24.0,23.8,6034.0
+Tomsk State University,Russia,43.6,49.2,40.0,10.9,7930.0
+UNESP,Brazil,,,,34.6,
+Washington State University,United States,52.0,36.9,34.5,17.9,28896.0
+Graz University of Technology,Austria,43.6,40.4,21.4,11.0,6660.0
+Novosibirsk State University,Russia,39.4,42.2,36.6,14.4,7264.0
+Université de Liège,Belgium,,,,16.3,
+Université de Strasbourg,France,,,,7.9,
+University of Canberra ,Australia,,,,7.3,
+University of Limerick,Ireland,47.2,27.1,32.6,29.1,14640.0
+Anna University,India,43.6,32.0,26.3,8.5,12824.0
+IE University,Spain,,,,40.9,
+Singapore University of Technology and Design,Singapore,,,,5.8,
+University of Trento,Italy,50.0,29.3,34.8,8.9,14100.0
+Koç University,Turkey,50.0,31.8,40.5,47.3,6427.0
+Murdoch University,Australia,50.0,23.2,29.6,5.3,14816.0
+National Taipei University of Technology,Taiwan,34.8,27.3,25.0,57.7,9868.0
+National Taiwan Normal University,Taiwan,43.6,35.0,32.0,20.8,10878.0
+University of Stirling,United Kingdom,47.2,23.0,26.2,10.2,10650.0
+Dublin City University,Ireland,47.2,24.5,35.2,27.0,14325.0
+Sejong University ,South Korea,,,,17.3,
+Tampere University,Finland,52.0,30.6,38.4,19.5,16236.0
+University of Science and Technology Beijing,China (Mainland),,,,3.0,
+University of St.Gallen,Switzerland,,,,27.6,
+Julius-Maximilians-Universität Würzburg,Germany,,,,6.0,
+ University of Dundee,United Kingdom,,,,13.6,
+Université Laval,Canada,54.5,40.7,38.7,11.0,30362.0
+University of Utah,United States,57.2,43.5,38.5,6.0,31502.0
+National and Kapodistrian University of Athens,Greece,43.6,22.6,23.9,31.6,67934.0
+University of Connecticut,United States,50.0,41.2,30.2,6.9,28128.0
+Aston University,United Kingdom,47.2,22.2,26.5,22.8,12950.0
+Johannes Kepler University Linz,Austria,,,,13.5,
+"University of Tennessee, Knoxville",United States,,,,15.4,
+Toyota Technological Institute in Japan,Japan,,,,1.6,
+University of Jyväskylä,Finland,47.2,31.4,34.1,12.5,10702.0
+Iran University of Science and Technology,"Iran, Islamic Republic of",47.2,33.6,37.4,23.2,14679.0
+Central South University,China (Mainland),,,,3.4,
+Université Claude Bernard Lyon 1,France,,,,4.1,
+Czech Technical University in Prague,Czech Republic,30.5,30.9,18.8,37.6,15663.0
+Indian Institute of Technology Indore,India,,,,4.3,
+Southeast University,China (Mainland),52.0,39.9,46.3,7.4,39637.0
+Sultan Qaboos University,Oman,39.4,28.1,22.2,13.7,7512.0
+Universität Mannheim,Germany,,,,48.6,
+"Essex, University of",United Kingdom,,,,5.1,
+Universität Potsdam,Germany,,,,3.1,
+Florida State University,United States,54.5,38.2,38.6,25.7,39831.0
+National Research Nuclear University MEPhI,Russia,47.2,53.1,41.0,10.1,4993.0
+Universität Jena,Germany,,,,6.0,
+Johannes Gutenberg Universität Mainz,Germany,,,,12.7,
+Colorado School of Mines,United States,,,,9.6,
+Umea University,Sweden,,,,13.9,
+University of Bordeaux,France,50.0,37.2,29.9,5.3,52643.0
+University of Sharjah,United Arab Emirates,50.0,20.7,25.7,18.8,12848.0
+Ben-Gurion University of The Negev,Israel,,,,14.2,
+Illinois Institute of Technology,United States,50.0,42.6,26.9,15.6,6107.0
+Università degli Studi di Pavia,Italy,,,,5.8,
+Hiroshima University,Japan,39.4,39.6,26.4,14.0,14590.0
+Beihang University,China (Mainland),52.0,42.9,43.5,5.5,32854.0
+Ural Federal University - UrFU,Russia,,,,13.3,
+Vilnius University ,Lithuania,,,,27.8,
+Kobe University,Japan,39.4,39.5,27.2,38.8,15333.0
+Universitat Politècnica de València,Spain,,,,12.0,
+Universität Konstanz,Germany,,,,6.9,
+Universität Leipzig,Germany,,,,10.2,
+Missouri University of Science and Technology,United States,47.2,33.2,28.7,4.8,7271.0
+Bangor University,United Kingdom,47.2,27.6,25.3,5.3,8130.0
+Hitotsubashi University,Japan,,,,80.6,
+Leibniz University Hannover,Germany,50.0,38.3,41.5,33.2,19807.0
+Satbayev University,Kazakhstan,16.2,22.7,10.8,36.0,8114.0
+University of Milano-Bicocca ,Italy,,,,9.6,
+Universitat de Valencia,Spain,,,,7.3,
+University of Electronic Science and Technology of China,China (Mainland),50.0,34.8,35.2,3.0,37498.0
+University of Guelph,Canada,47.2,32.6,36.2,20.9,22936.0
+IPB University,Indonesia,25.5,30.9,9.8,39.0,23070.0
+"University of Rome ""Tor Vergata""",Italy,,,,12.6,
+Dalian University of Technology,China (Mainland),47.2,37.0,35.0,3.2,37389.0
+University at Buffalo SUNY,United States,,,,8.3,
+University of Iowa,United States,57.2,46.1,37.0,11.2,28583.0
+Chung-Ang University,South Korea,47.2,37.4,38.4,36.2,18193.0
+Hunan University ,China (Mainland),,,,8.4,
+Rensselaer Polytechnic Institute,United States,47.2,34.1,30.3,7.0,7496.0
+Universidad de Sevilla,Spain,,,,10.4,
+Ewha Womans University,South Korea,39.4,37.6,35.3,23.0,13999.0
+Ulster University,United Kingdom,39.4,21.3,22.4,13.0,19825.0
+University of Delaware,United States,47.2,32.7,31.8,7.9,21545.0
+University of Jordan,Jordan,39.4,27.8,13.4,38.8,25631.0
+Bilkent University,Turkey,39.4,27.8,26.0,44.9,9109.0
+Jilin University,China (Mainland),,,,47.1,
+University of Portsmouth,United Kingdom,47.2,20.0,20.0,9.6,23625.0
+Macau University of Science and Technology,Macau SAR,54.5,33.1,34.2,4.2,14091.0
+National Sun Yat-sen University,Taiwan,,,,24.4,
+Oregon State University,United States,,,,4.6,
+Università Cattolica del Sacro Cuore,Italy,,,,31.4,
+Sogang University,South Korea,34.8,27.2,30.6,49.1,9688.0
+University of Bayreuth,Germany,50.0,38.0,40.8,19.3,8944.0
+East China Normal University,China (Mainland),52.0,42.7,35.1,3.7,28787.0
+SOAS University of London ,United Kingdom,,,,9.5,
+Université Paul Sabatier Toulouse III,France,,,,3.4,
+Boğaziçi University,Turkey,39.4,26.1,26.6,58.4,12877.0
+Duy Tan University,Vietnam,39.4,12.1,14.2,26.3,23951.0
+Pontificia Universidad Católica Argentina,Argentina,,,,32.3,
+Shanghai University,China (Mainland),43.6,31.8,38.0,9.0,38015.0
+University of Georgia,United States,50.0,41.2,40.5,18.2,37565.0
+Universität Bremen,Germany,,,,8.4,
+Kyungpook National University,South Korea,43.6,33.2,38.1,18.0,18432.0
+Universidad Austral,Argentina,,,,52.5,
+University of Texas Dallas,United States,,,,11.6,
+Universidad de Zaragoza,Spain,,,,4.5,
+University of Hull,United Kingdom,47.2,27.4,24.3,3.5,12305.0
+Universiti Teknologi Brunei,Brunei,,,,3.9,
+MGIMO University,Russia,,,,21.3,
+Sabanci University,Turkey,,,,37.5,
+University of Madras,India,,,,3.6,
+Edith Cowan University ,Australia,,,,8.1,
+Aristotle University of Thessaloniki,Greece,34.8,22.3,16.8,25.9,49654.0
+Christian-Albrechts-University zu Kiel,Germany,,,,10.1,
+Universidad de Palermo,Argentina,,,,17.8,
+University of Genoa,Italy,47.2,36.1,28.3,3.8,21470.0
+China Agricultural University ,China (Mainland),,,,2.1,
+Peter the Great St. Petersburg Polytechnic University,Russia,,,,9.0,
+University of Crete,Greece,43.6,19.9,25.7,14.3,14119.0
+University of Salamanca,Spain,34.8,32.0,21.8,15.0,24707.0
+Universidad de Alcalá,Spain,,,,4.7,
+Universiti Utara Malaysia,Malaysia,47.2,38.4,27.6,28.0,12229.0
+Lahore University of Management Sciences,Pakistan,34.8,23.3,16.7,72.0,4735.0
+Universidad Nacional de La Plata,Argentina,,,,31.0,
+ITMO University,Russia,39.4,34.0,34.9,11.6,10902.0
+University Ulm,Germany,,,,3.9,
+Universidad de Costa Rica,Costa Rica,,,,37.6,
+Bar-Ilan University,Israel,43.6,30.0,34.1,5.3,19599.0
+City University of New York,United States,,,,34.1,
+Singapore Management University,Singapore,,,,15.3,
+Lehigh University,United States,39.4,33.0,22.5,4.2,6518.0
+Northumbria University at Newcastle,United Kingdom,,,,15.9,
+University of Eastern Finland,Finland,43.6,28.9,31.2,9.7,12237.0
+Ajman University,United Arab Emirates,,,,34.7,
+Canadian University Dubai,United Arab Emirates,,,,14.4,
+Hasselt University ,Belgium,,,,3.4,
+University of Nebraska - Lincoln,United States,,,,5.9,
+Universiti Teknologi MARA - UiTM,Malaysia,,,,47.6,
+Florida International University,United States,47.2,31.0,29.3,35.4,35006.0
+INTI International University,Malaysia,,,,14.8,
+Politecnico di Bari,Italy,,,,4.6,
+RenminUniversity of China,China (Mainland),,,,40.4,
+"University of Chemistry and Technology, Prague",Czech Republic,30.5,32.8,14.7,7.9,4061.0
+Chongqing University,China (Mainland),50.0,32.8,38.2,3.8,42607.0
+University of Plymouth,United Kingdom,47.2,24.4,21.9,12.1,15675.0
+Ateneo de Manila University,Philippines,30.5,30.8,10.8,57.9,14168.0
+Université de Fribourg,Switzerland,,,,3.8,
+University of South Florida,United States,54.5,31.7,36.4,10.2,40379.0
+Bond University,Australia,47.2,28.2,23.1,5.2,3170.0
+National Chengchi University,Taiwan,30.5,27.6,27.8,39.0,12329.0
+Universidad Adolfo Ibáñez,Chile,,,,73.5,
+University of Huddersfield,United Kingdom,43.6,28.3,25.0,15.0,14270.0
+Chiang Mai University,Thailand,34.8,28.5,19.1,19.3,33649.0
+Coventry University,United Kingdom,39.4,20.9,14.9,12.5,32635.0
+Indian Institute of TechnologyVaranasi,India,,,,3.6,
+Warsaw University of Technology,Poland,25.5,22.0,19.6,49.8,23167.0
+HUFS - HankukUniversity of Foreign Studies ,South Korea,,,,23.9,
+University of South Carolina,United States,,,,11.8,
+Lebanese University,Lebanon,34.8,42.8,22.3,49.8,46704.0
+Taipei Medical University,Taiwan,47.2,47.4,32.6,15.4,5993.0
+University of Tromsø The Arctic University of Norway,Norway,,,,3.7,
+Abu Dhabi University,United Arab Emirates,57.2,48.2,30.0,17.9,2506.0
+University of Klagenfurt,Austria,43.6,31.2,19.4,4.3,3479.0
+Applied Science University - Bahrain,Bahrain,,,,21.9,
+Universidad Católica Andres Bello,Venezuela,,,,67.7,
+Universidad Pontificia Comillas,Spain,,,,65.9,
+National Research Tomsk Polytechnic University,Russia,,,,7.5,
+Sunway University,Malaysia,39.4,24.7,14.6,44.1,4350.0
+"University of Missouri, Columbia",United States,,,,9.6,
+Central Queensland University,Australia,43.6,19.7,26.7,9.5,12874.0
+Manchester Metropolitan University,United Kingdom,43.6,20.5,18.5,13.4,30985.0
+Prince Mohammad Bin Fahd university,Saudi Arabia,,,,19.1,
+"Goldsmiths, University of London",United Kingdom,47.2,29.2,25.2,6.0,8780.0
+University of Central Florida,United States,47.2,28.5,34.4,37.1,65269.0
+Imam Abdulrahman Bin Faisal University,Saudi Arabia,39.4,27.7,13.9,7.1,23781.0
+Nottingham Trent University,United Kingdom,43.6,20.7,14.3,20.5,32545.0
+Pontifícia Universidade Católica do Rio de Janeiro,Brazil,,,,24.5,
+Shenzhen University,China (Mainland),50.0,27.8,34.3,2.3,35736.0
+Università Vita-Salute San Raffaele,Italy,,,,1.7,
+Nanjing University of Science and Technology,China (Mainland),,,,2.2,
+Thammasat University,Thailand,25.5,26.3,19.1,26.4,30488.0
+Tulane University,United States,47.2,42.9,24.4,5.0,12217.0
+Universität des Saarlandes,Germany,,,,4.5,
+Abo Akademi University,Finland,,,,6.2,
+American University in Dubai,United Arab Emirates,,,,16.8,
+Charles Darwin University ,Australia,,,,4.7,
+Drexel University,United States,52.0,44.1,26.0,6.1,16910.0
+Jawaharlal Nehru University,India,39.4,41.9,24.3,10.6,9737.0
+"Kingston University, London",United Kingdom,,,,12.6,
+Umm Al-Qura University ,Saudi Arabia,,,,9.4,
+Universidad de Concepción,Chile,,,,35.6,
+University of Szeged,Hungary,30.5,29.9,15.8,12.0,20050.0
+Al Ain University,United Arab Emirates,,,,11.0,
+Auezov South Kazakhstan University,Kazakhstan,,,,21.5,
+Brno University of Technology,Czech Republic,30.5,22.2,19.3,34.7,18137.0
+Martin-Luther-Universität Halle-Wittenberg,Germany,,,,4.3,
+National Central University,Taiwan,30.5,30.8,24.9,27.1,11001.0
+Pusan National University,South Korea,43.6,39.2,39.1,18.5,17195.0
+Tokyo Medical and Dental University,Japan,,,,5.8,
+University of Minho,Portugal,39.4,26.3,30.3,8.7,20001.0
+Asia Pacific University of Technology and Innovation,Malaysia,,,,8.6,
+Chang Gung University,Taiwan,39.4,26.5,34.6,4.6,7017.0
+Institut Teknologi Sepuluh Nopember,Indonesia,25.5,25.3,10.8,41.0,20658.0
+Management and Science University,Malaysia,,,,12.2,
+Northwestern Polytechnical University,China (Mainland),52.0,37.4,40.6,2.5,36797.0
+Stevens Institute of Technology,United States,47.2,26.9,25.3,2.9,6393.0
+Universitat Ramon Llull,Spain,39.4,20.7,18.2,43.7,15125.0
+University of Kwazulu-Natal,South Africa,,,,11.8,
+University of Ljubljana,Slovenia,34.8,24.5,20.1,9.5,40607.0
+University of the Basque Country,Spain,39.4,27.0,23.9,6.4,38301.0
+Zhengzhou University,China (Mainland),39.4,18.7,19.8,19.7,74052.0
+Ajou University ,South Korea,,,,15.4,
+Boston College,United States,54.5,43.5,30.5,12.9,13156.0
+Jinan University,China (Mainland),43.6,25.9,22.8,2.1,37555.0
+Palacký University Olomouc,Czech Republic,34.8,23.4,23.9,17.9,19474.0
+Ritsumeikan University,Japan,25.5,19.8,13.9,68.4,35119.0
+Saint Joseph University of Beirut,Lebanon,,,,27.6,
+Universidad Central de Venezuela,Venezuela,,,,58.4,
+Université de Lille,France,,,,4.2,
+University of New Mexico,United States,,,,13.9,
+Far Eastern Federal University,Russia,25.5,31.5,19.6,3.5,15631.0
+Free University of Bozen-Bolzano,Italy,50.0,31.8,22.8,1.5,4244.0
+Kazakh National Agrarian University KazNAU,Kazakhstan,,,,13.1,
+"Lingnan University, Hong Kong",Hong Kong SAR,,,,5.5,
+Memorial University of Newfoundland,Canada,43.6,27.5,24.5,4.6,16318.0
+New Jersey Institute of Technology,United States,47.2,27.4,23.5,6.1,9981.0
+Pakistan Institute of Engineering and Applied Sciences,Pakistan,,,,9.5,
+New School,United States,34.8,29.8,15.5,14.9,8644.0
+Universidad de La Habana,Cuba,,,,17.3,
+University of Bradford,United Kingdom,43.6,23.3,22.4,7.3,8970.0
+University of Houston,United States,43.6,33.8,29.7,10.9,47963.0
+University of Modena and Reggio Emilia,Italy,47.2,32.0,24.6,3.2,21836.0
+University of Oklahoma,United States,,,,10.6,
+University of Windsor,Canada,43.6,28.7,29.8,4.8,14849.0
+COMSATS University Islamabad,Pakistan,39.4,17.9,16.6,29.2,34323.0
+Instituto Tecnológico Autónomo de México,Mexico,,,,35.1,
+Southern Cross University ,Australia,,,,3.4,
+Tallinn University of Technology,Estonia,39.4,25.7,20.6,11.4,8521.0
+Universidad de Montevideo,Uruguay,,,,13.5,
+University of Haifa,Israel,39.4,23.9,30.1,7.4,17353.0
+University of Hohenheim,Germany,54.5,35.0,35.5,5.3,8369.0
+Aberystwyth University,United Kingdom,43.6,26.3,23.0,6.4,6180.0
+Brandeis University,United States,54.5,36.7,28.3,4.3,4791.0
+Ca' Foscari University of Venice ,Italy,,,,14.8,
+Holy Spirit University of Kaslik ,Lebanon,,,,12.0,
+Karl-Franzens-Universitaet Graz,Austria,,,,9.5,
+Lebanese American University,Lebanon,43.6,26.7,13.2,28.2,7100.0
+Middlesex University,United Kingdom,43.6,22.8,18.5,4.8,15545.0
+National Chung Hsing University,Taiwan,30.5,23.8,25.2,24.1,14394.0
+Princess Nourah bint Abdulrahman University,Saudi Arabia,39.4,26.7,16.3,16.5,22552.0
+Tokyo University of Science,Japan,25.5,24.0,26.1,54.8,17662.0
+Universidad Panamericana,Mexico,,,,22.0,
+Università degli Studi di Perugia,Italy,,,,2.3,
+Universitas Padjadjaran,Indonesia,16.2,28.5,12.2,34.0,35498.0
+Universitat Rovira i Virgili,Spain,,,,2.0,
+American University of the Middle East,Kuwait,,,,18.0,
+Carleton University,Canada,43.6,22.6,31.2,13.9,29656.0
+Dongguk University ,South Korea,,,,11.5,
+University of Debrecen,Hungary,39.4,41.2,22.5,10.3,19964.0
+University of Greenwich,United Kingdom,43.6,17.8,17.5,4.2,17095.0
+University of Manitoba,Canada,50.0,31.8,34.7,12.0,30316.0
+Abai Kazakh National Pedagogical University,Kazakhstan,,,,17.0,
+Colegio de México,Mexico,,,,3.1,
+De La Salle University,Philippines,16.2,19.6,12.8,45.1,14905.0
+East China University of Science and Technology,China (Mainland),39.4,29.9,25.8,2.6,30974.0
+Paris Lodron University of Salzburg,Austria,,,,2.3,
+Pontificia Universidad Católica de Valparaíso,Chile,,,,39.6,
+Shiraz University,"Iran, Islamic Republic of",34.8,29.3,24.6,10.4,14857.0
+Soochow University,China (Mainland),,,,2.3,
+Taras Shevchenko National University of Kyiv,Ukraine,25.5,30.0,13.1,38.6,25937.0
+National University of Science and Technology MISIS,Russia,,,,8.0,
+University of Kentucky,United States,47.2,41.3,30.8,11.5,27540.0
+Indian Institute of Technology Hyderabad,India,,,,2.7,
+Inha University,South Korea,34.8,31.2,27.2,15.3,16035.0
+Universidad Iberoamericana IBERO,Mexico,,,,31.1,
+Universidade Federal de Minas Gerais      ,Brazil,,,,5.7,
+Universidade Federal do Rio Grande Do Sul ,Brazil,,,,3.8,
+University of Cincinnati,United States,,,,7.6,
+University of Dhaka,Bangladesh,34.8,17.5,10.0,44.9,216258.0
+University of Mons ,Belgium,,,,13.0,
+University of Trieste,Italy,43.6,31.9,25.1,3.6,17196.0
+V. N. Karazin Kharkiv National University,Ukraine,,,,17.9,
+Altai State University,Russia,16.2,20.5,16.5,3.7,9271.0
+Chiba University,Japan,34.8,33.2,20.9,8.4,13832.0
+Czech University of Life Sciences in Prague,Czech Republic,,,,8.8,
+Eötvös Loránd University,Hungary,34.8,28.6,19.2,16.8,30414.0
+Universidad de Antioquia,Colombia,,,,33.9,
+Universidade de Santiago de Compostela,Spain,,,,10.3,
+Wake Forest University,United States,47.2,39.6,22.0,6.1,8293.0
+Zayed University,United Arab Emirates,47.2,28.3,25.4,17.3,9036.0
+Beirut Arab University ,Lebanon,,,,18.8,
+China University of Petroleum,China (Mainland),,,,1.5,
+International Islamic University Malaysia,Malaysia,,,,17.2,
+Istanbul University,Turkey,30.5,23.5,22.0,19.1,61369.0
+Savitribai Phule Pune University,India,34.8,44.0,11.8,11.3,5871.0
+Universidad del Rosario,Colombia,,,,43.4,
+Université de Rennes 1,France,,,,4.0,
+"University of Maryland, Baltimore County",United States,39.4,28.8,24.6,13.1,11668.0
+University of New Brunswick,Canada,,,,6.9,
+University of Westminster,United Kingdom,34.8,19.4,18.1,6.7,17315.0
+Victoria University ,Australia,,,,6.5,
+Ain Shams University ,Egypt,,,,25.4,
+Beijing University of Chemical Technology,China (Mainland),,,,1.8,
+Jeonbuk National University,South Korea,34.8,30.2,27.3,10.7,20118.0
+Temple University,United States,50.0,40.7,24.3,7.9,34069.0
+Ton Duc Thang University,Vietnam,39.4,12.9,16.0,10.2,28400.0
+Universita' Politecnica delle Marche,Italy,,,,2.8,
+Université Côte d\'Azur,France,,,,3.0,
+Université de Lorraine,France,,,,3.6,
+University of Belgrade,Serbia,34.8,21.3,27.0,5.2,91494.0
+"University of Colorado, Denver ",United States,,,,6.3,
+University of Oregon,United States,47.2,31.1,30.5,8.6,21185.0
+"Adam Mickiewicz University, Poznań",Poland,30.5,19.7,28.4,8.7,33268.0
+Alfaisal University,Saudi Arabia,43.6,24.1,15.2,3.2,3274.0
+Bournemouth University,United Kingdom,47.2,23.2,21.1,8.3,14260.0
+Indian Institute of Technology Bhubaneswar,India,,,,3.4,
+Jordan University of Science & Technology,Jordan,,,,24.5,
+"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,,,,33.7,
+Universidad EAFIT,Colombia,,,,61.5,
+Universidade Federal de São Paulo,Brazil,,,,4.3,
+University of Siena,Italy,43.6,25.0,25.6,2.6,13115.0
+Budapest University of Technology and Economics,Hungary,25.5,22.2,18.3,19.4,18621.0
+Instituto Politécnico Nacional,Mexico,,,,40.2,
+Jadavpur University,India,30.5,35.3,15.8,5.1,14338.0
+"Sofia University ""St. Kliment Ohridski""",Bulgaria,,,,16.3,
+Swarthmore College,United States,,,,1.8,
+Universität Regensburg,Germany,,,,6.7,
+"University of Agriculture, Faisalabad ",Pakistan,,,,11.9,
+University of Bari,Italy,,,,2.9,
+University of the Punjab,Pakistan,34.8,27.7,14.7,52.3,28692.0
+University of the West of England,United Kingdom,43.6,19.5,15.0,9.4,26890.0
+Ahlia University,Bahrain,,,,8.0,
+ISCTE - Instituto Universitario de Lisboa,Portugal,,,,6.2,
+Kasetsart University,Thailand,16.2,18.1,12.6,21.8,70633.0
+Liverpool John Moores University,United Kingdom,43.6,21.6,19.3,6.8,23200.0
+Riga Technical University,Latvia,30.5,26.4,23.9,28.2,10830.0
+Technische Universität Braunschweig,Germany,,,,14.5,
+Universidad Externado de Colombia ,Colombia,,,,43.7,
+Université du Québec,Canada,47.2,33.7,33.8,11.8,51748.0
+University of Mumbai,India,,,,25.0,
+University of Ulsan ,South Korea,,,,2.5,
+University of Zagreb,Croatia,30.5,26.0,15.9,4.7,58474.0
+Wayne State University,United States,43.6,36.4,20.4,3.2,22523.0
+Hacettepe University ,Turkey,,,,22.7,
+King Khalid University,Saudi Arabia,43.6,29.8,20.1,5.1,32078.0
+Philipps-Universität Marburg ,Germany,,,,7.5,
+Universidad de Belgrano,Argentina,,,,10.7,
+Universität Rostock,Germany,,,,3.2,
+Universiti Tenaga Nasional,Malaysia,,,,13.8,
+Virginia Commonwealth University,United States,47.2,36.4,23.2,16.5,25944.0
+Chandigarh University,India,,,,43.4,
+Comenius University Bratislava,Slovakia,,,,5.2,
+Rutgers University–Newark,United States,,,,5.2,
+Sechenov University,Russia,34.8,32.6,17.1,4.4,15885.0
+Shoolini University of Biotechnology and Management Sciences,India,43.6,27.6,17.9,12.6,3251.0
+Universidad Anáhuac México,Mexico,,,,24.1,
+Universidad ORT Uruguay,Uruguay,,,,11.8,
+Universität Duisburg-Essen,Germany,,,,5.2,
+Université de Nantes,France,,,,2.7,
+University at Albany SUNY,United States,,,,4.5,
+University of Brighton,United Kingdom,34.8,19.8,16.5,7.0,14525.0
+University of Northern British Columbia,Canada,,,,8.5,
+China University of Mining and Technology,China (Mainland),,,,1.6,
+Keele University ,United Kingdom,,,,4.3,
+Khoja Akhmet Yassawi International Kazakh-Turkish University,Kazakhstan,,,,20.9,
+Nanjing Agricultural University,China (Mainland),,,,1.9,
+National Institute of Technology Tiruchirappalli,India,,,,2.7,
+Syracuse University,United States,47.2,33.8,28.2,9.6,19214.0
+Catholic University of Korea ,South Korea,,,,2.7,
+Universiti Malaysia Pahang,Malaysia,39.4,27.4,19.0,7.1,8331.0
+University of Alaska Fairbanks,United States,43.6,34.5,31.0,3.2,2829.0
+American University,United States,39.4,35.2,17.1,22.8,12771.0
+Clarkson University,United States,34.8,29.9,18.0,2.4,3871.0
+Diponegoro University,Indonesia,16.2,27.1,15.4,33.9,35688.0
+Instituto Tecnológico de Buenos Aires,Argentina,,,,38.8,
+Lanzhou University,China (Mainland),,,,2.3,
+Plekhanov Russian University of Economics,Russia,30.5,25.9,12.9,14.3,12595.0
+Universidad de La Sabana,Colombia,,,,39.1,
+University of Brescia,Italy,47.2,24.4,19.2,2.1,14615.0
+University of Engineering & TechnologyLahore,Pakistan,,,,44.8,
+University of Patras,Greece,34.8,19.0,17.8,17.7,31172.0
+Al-Ahliyya Amman University,Jordan,,,,5.9,
+Almaty Technological University,Kazakhstan,,,,3.3,
+Auburn University,United States,43.6,36.0,25.7,8.5,27670.0
+Australian Catholic University,Australia,47.2,16.8,25.7,10.5,23843.0
+Babes-Bolyai University,Romania,,,,13.7,
+Bangladesh University of Engineering and Technology,Bangladesh,30.5,21.7,15.8,34.8,6237.0
+Beijing University of Technology,China (Mainland),,,,3.5,
+Belarusian National Technical University,Belarus,,,,29.8,
+Charles Sturt University ,Australia,,,,6.0,
+China University of Geosciences,China (Mainland),,,,1.4,
+Clark University,United States,39.4,26.6,20.8,5.3,3217.0
+De Montfort University,United Kingdom,39.4,17.8,15.1,4.8,23125.0
+Edinburgh Napier University,United Kingdom,43.6,18.1,18.4,4.2,12415.0
+Immanuel Kant Baltic Federal University,Russia,25.5,35.9,18.8,2.3,6857.0
+Ivane Javakhishvili Tbilisi State University,Georgia,16.2,15.9,11.3,2.6,23278.0
+Jouf University,Saudi Arabia,39.4,30.5,18.3,5.3,19006.0
+Kaunas University of Technology,Lithuania,25.5,22.2,15.3,21.8,7986.0
+Konkuk University ,South Korea,,,,9.3,
+Louisiana State University,United States,39.4,32.7,21.4,8.3,31112.0
+Maynooth University,Ireland,47.2,21.1,30.7,9.2,11885.0
+Nagasaki University,Japan,25.5,29.4,14.8,2.2,8782.0
+Nanjing University of Aeronautics and Astronautics,China (Mainland),39.4,28.2,31.6,2.6,33883.0
+North-West University,South Africa,39.4,22.7,18.7,9.1,39684.0
+Poznan University of Life Sciences,Poland,,,,1.8,
+Ritsumeikan Asia Pacific University,Japan,,,,9.4,
+Texas Tech University,United States,39.4,30.7,20.9,11.8,37331.0
+Tokyo University of Agriculture and Technology ,Japan,,,,6.7,
+Universidad de la República,Uruguay,,,,14.4,
+Universidad de San Andrés - UdeSA,Argentina,,,,32.6,
+Universidad Pontificia Bolivariana ,Colombia,,,,15.4,
+Universidad San Francisco de Quito,Ecuador,30.5,22.3,11.1,10.7,7874.0
+Universidad Técnica Federico Santa María,Chile,,,,50.6,
+Universidade de Brasília,Brazil,,,,14.5,
+Universidade Federal de Santa Catarina ,Brazil,,,,4.4,
+Universitas Brawijaya ,Indonesia,,,,34.5,
+Université de Sherbrooke,Canada,,,,6.8,
+Universiti Tunku Abdul Rahman,Malaysia,,,,36.4,
+University Duesseldorf,Germany,,,,7.6,
+University of Alicante,Spain,30.5,25.0,19.8,6.2,22767.0
+University of Balamand,Lebanon,,,,13.0,
+University of Calcutta,India,30.5,40.0,15.2,4.3,17879.0
+University of Dubai,United Arab Emirates,,,,4.5,
+University of Hyderabad,India,,,,2.8,
+University of Latvia,Latvia,30.5,18.6,27.1,17.8,12125.0
+University of Massachusetts Boston,United States,,,,4.9,
+University of Pecs,Hungary,,,,8.8,
+University of Salerno,Italy,43.6,21.9,24.4,2.1,26142.0
+University of Santo Tomas,Philippines,16.2,19.6,9.5,33.5,31813.0
+Verona University,Italy,47.2,29.6,26.2,2.9,20968.0
+Vilnius Gediminas Technical University,Lithuania,,,,16.7,
+Vytautas Magnus University,Lithuania,25.5,22.4,12.3,20.6,8210.0
+Yokohama City University,Japan,34.8,28.4,11.3,2.6,5144.0
+Karaganda State Technical University,Kazakhstan,,,,6.8,
+Addis Ababa University,Ethiopia,,,,10.8,
+Beijing University of Posts and Telecommunications,China (Mainland),,,,2.2,
+Catania University,Italy,,,,3.1,
+Chonnam National University,South Korea,34.8,28.5,28.3,5.0,22051.0
+Chungnam National University,South Korea,34.8,29.9,29.7,8.0,20334.0
+Clemson University,United States,,,,10.8,
+CY Cergy Paris University,France,34.8,23.8,25.3,2.7,16082.0
+Gdańsk University of Technology,Poland,30.5,19.7,17.0,14.4,13903.0
+Georgia State University,United States,47.2,35.0,25.4,13.6,30821.0
+Gulf University for Science and Technology,Kuwait,,,,7.3,
+Huazhong Agricultural University,China (Mainland),,,,1.8,
+Kanazawa University,Japan,30.5,35.5,18.8,4.4,10271.0
+Kansas State University ,United States,,,,8.0,
+Karaganda Buketov University,Kazakhstan,,,,19.9,
+King Faisal University,Saudi Arabia,34.8,19.9,12.2,8.6,29628.0
+Kuwait University,Kuwait,30.5,19.5,9.9,8.3,34147.0
+Kyrgyz-Turkish Manas University,Kyrgyzstan,,,,7.3,
+London South Bank University,United Kingdom,39.4,18.6,12.4,2.9,14510.0
+Michigan Technological University,United States,,,,4.2,
+National Research Saratov State University,Russia,16.2,26.8,16.1,2.5,9664.0
+Niigata University,Japan,30.5,30.6,15.0,3.3,11942.0
+North South University,Bangladesh,34.8,12.9,10.0,48.4,18681.0
+Oklahoma State University ,United States,,,,9.7,
+Pavol Jozef Šafárik University in Košice,Slovakia,25.5,40.7,10.2,3.6,7060.0
+"Queen Margaret University , Edinburgh",United Kingdom,,,,4.0,
+Ryerson University,Canada,,,,14.4,
+Southern Federal University,Russia,25.5,27.9,14.3,3.6,19181.0
+Technological University Dublin,Ireland,30.5,19.1,13.1,12.4,20801.0
+TU Dortmund University,Germany,47.2,35.7,42.2,13.8,19477.0
+Universidad Católica del Uruguay,Uruguay,,,,12.4,
+"Universidad Central ""Marta Abreu"" de Las Villas",Cuba,,,,1.1,
+Universidad de Guadalajara,Mexico,,,,9.2,
+Universidad Torcuato Di Tella,Argentina,,,,25.4,
+Universita' degli Studi di Ferrara,Italy,,,,2.4,
+University of Bucharest,Romania,30.5,24.8,21.1,13.8,32362.0
+University of East London,United Kingdom,30.5,21.8,15.1,3.5,14480.0
+University of Hertfordshire,United Kingdom,39.4,18.6,13.4,4.8,20480.0
+University of Lincoln,United Kingdom,43.6,19.9,18.7,5.1,15020.0
+University of Malta,Malta,34.8,23.4,16.2,5.2,10056.0
+University of Maribor,Slovenia,25.5,20.1,16.9,6.7,12919.0
+University of Messina,Italy,43.6,30.5,25.3,2.5,13509.0
+University of Palermo,Italy,39.4,18.9,22.5,2.4,33972.0
+University of Parma,Italy,39.4,19.4,22.6,2.7,29840.0
+University of Salford,United Kingdom,34.8,18.8,15.0,4.0,20010.0
+University of South Africa,South Africa,30.5,24.7,19.3,4.9,198816.0
+University Paris 2 Panthéon-Assas,France,,,,3.5,
+Vellore Institute of Technology,India,,,,12.2,
+Wesleyan University,United States,,,,1.8,
+Worcester Polytechnic Institute,United States,39.4,30.0,22.1,5.7,5834.0
+Wuhan University of Technology,China (Mainland),,,,2.1,
+AGH University of Science and Technology,Poland,,,,15.2,
+Alexandria University ,Egypt,,,,13.1,
+Ankara Üniversitesi,Turkey,,,,11.7,
+Asia University Taiwan,Taiwan,,,,1.8,
+Athens University of Economics and Business,Greece,34.8,18.1,23.6,33.3,10477.0
+Beijing Jiaotong University,China (Mainland),,,,4.2,
+College of William and Mary,United States,,,,10.6,
+D. Serikbayev East Kazakhstan state technical university,Kazakhstan,,,,6.3,
+Donghua University,China (Mainland),43.6,27.8,22.1,1.5,23099.0
+Hallym University ,South Korea,,,,1.9,
+Kumamoto University,Japan,34.8,33.6,19.6,3.1,9384.0
+London Metropolitan University,United Kingdom,,,,2.9,
+Loyola University Chicago,United States,,,,29.6,
+Mendel University in Brno,Czech Republic,25.5,20.9,19.4,8.6,9019.0
+National Chung Cheng University,Taiwan,25.5,23.5,22.2,26.2,8748.0
+"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,,,,12.1,
+Nicolaus Copernicus University ,Poland,,,,3.0,
+Northern Borders University,Saudi Arabia,,,,3.7,
+Notre Dame University-Louaize NDU,Lebanon,,,,13.8,
+Ocean University of China,China (Mainland),,,,1.9,
+Okayama University,Japan,34.8,34.6,21.5,3.9,13027.0
+Pontificia Universidad Católica del Ecuador,Ecuador,16.2,12.2,8.7,28.7,21237.0
+Prince of Songkla University,Thailand,25.5,23.4,14.8,7.1,33318.0
+Princess Sumaya University for Technology,Jordan,,,,19.5,
+Qassim University,Saudi Arabia,34.8,36.0,20.4,2.9,37222.0
+Rhodes University ,South Africa,,,,9.5,
+Riga Stradins University,Latvia,,,,14.1,
+Robert Gordon University,United Kingdom,34.8,17.5,13.2,11.7,10095.0
+S.D. Asfendiyarov Kazakh National Medical University,Kazakhstan,,,,3.8,
+Samara National Research University,Russia,,,,2.2,
+Sophia University ,Japan,,,,19.9,
+St. Louis University,United States,,,,2.7,
+Sungshin Women's University,South Korea,,,,7.4,
+Universidad Autónoma Metropolitana,Mexico,,,,14.5,
+Universidad ICESI,Colombia,,,,9.7,
+Universidad Nacional Mayor de San Marcos,Peru,,,,27.8,
+Universidade Católica Portuguesa - UCP,Portugal,,,,11.1,
+Universidade de Vigo,Spain,,,,5.4,
+Università degli studi Roma Tre,Italy,,,,6.9,
+"University of Alabama, Birmingham",United States,,,,4.3,
+University of Central Lancashire,United Kingdom,30.5,18.3,13.8,5.8,21525.0
+University of Denver,United States,43.6,39.9,24.3,7.5,10367.0
+University of Murcia,Spain,34.8,25.2,19.9,2.8,28862.0
+University of Petroleum and Energy Studies,India,,,,3.7,
+University of Vermont,United States,,,,3.2,
+University of Wroclaw,Poland,,,,14.4,
+West Virginia University,United States,,,,6.2,
+Wroclaw University of Science and Technology,Poland,,,,17.2,
+Bielefeld University,Germany,,,,3.8,
+"Birla Institute of Technology and Science, Pilani",India,34.8,23.7,17.0,14.4,16339.0
+George Mason University,United States,47.2,29.7,27.5,6.0,32959.0
+Gifu University,Japan,30.5,30.6,23.2,2.5,7134.0
+Gunma University,Japan,25.5,28.6,14.2,2.2,6248.0
+Indiana University–Purdue University Indianapolis,United States,,,,6.1,
+Islamic University of Madinah,Saudi Arabia,,,,1.9,
+Jamia Millia Islamia,India,43.6,41.1,14.4,2.6,10235.0
+Khon Kaen University,Thailand,25.5,23.3,15.7,12.1,32895.0
+King Mongkut's University of Technology Thonburi ,Thailand,,,,7.2,
+Lviv Polytechnic National University,Ukraine,39.4,22.9,11.3,14.8,22580.0
+Makerere University,Uganda,34.8,23.4,25.3,4.7,29510.0
+"Manipal Academy of Higher Education, Manipal, Karnataka, India",India,,,,7.0,
+NJSC KIMEP University,Kazakhstan,,,,11.9,
+Northwest Agriculture and Forestry University,China (Mainland),,,,1.4,
+O.P. Jindal Global University,India,,,,13.1,
+Saint Petersburg Electrotechnical University ETU-LETI,Russia,,,,3.5,
+Shahid Beheshti University,"Iran, Islamic Republic of",,,,12.3,
+South Ural State University,Russia,39.4,23.2,13.5,4.2,15354.0
+Sumy State University,Ukraine,47.2,24.3,13.5,5.7,8449.0
+Tecnológico de Costa Rica -TEC,Costa Rica,,,,33.8,
+Thapar Institute of Engineering & Technology,India,,,,4.0,
+University of Alabama,United States,39.4,26.0,21.2,19.0,34810.0
+Tokyo Metropolitan University,Japan,30.5,29.8,16.2,5.4,8903.0
+Universidad de Castilla-La Mancha,Spain,,,,2.0,
+Universidad de las Américas Puebla,Mexico,,,,13.1,
+Universidad de los Andes - Chile,Chile,,,,24.5,
+Universidad de Valladolid,Spain,,,,3.6,
+Universidad Diego Portales,Chile,,,,22.2,
+Universidad Nacional de Córdoba - UNC,Argentina,,,,15.5,
+Universidad Nacional de Ingeniería Peru,Peru,,,,42.5,
+Universidad Nacional de Rosario,Argentina,,,,8.8,
+Universidad Peruana Cayetano Heredia,Peru,30.5,16.9,12.9,10.4,10503.0
+Universidad Rey Juan Carlos,Spain,,,,9.4,
+Universidad Simón Bolívar,Venezuela,,,,21.2,
+Universidad Tecnológica de Panamá,Panama,,,,30.7,
+Université de Tunis El Manar,Tunisia,,,,2.6,
+Université Toulouse 1 Capitole,France,,,,3.0,
+Universiti Pendidikan Sultan Idris,Malaysia,39.4,35.3,25.2,11.0,5920.0
+University of Baghdad,Iraq,16.2,25.1,12.6,11.4,77128.0
+University of Bahrain,Bahrain,,,,7.6,
+University of Calabria,Italy,43.6,34.9,19.5,2.0,12784.0
+UNIVERSITY OF GDANSK,Poland,,,,7.0,
+University of Ghana,Ghana,30.5,14.9,21.3,9.4,59744.0
+University of Lodz,Poland,,,,4.3,
+University of New England Australia,Australia,,,,6.3,
+University of Peshawar,Pakistan,30.5,19.4,12.2,9.0,20494.0
+University of Seoul ,South Korea,,,,10.0,
+University of the Western Cape,South Africa,39.4,22.0,23.8,7.8,24605.0
+Viet Nam National University Ho Chi Minh City,Vietnam,,,,26.4,
+"Vietnam National University, Hanoi ",Vietnam,,,,21.1,
+Yeungnam University ,South Korea,,,,3.2,
+Yildiz Technical University,Turkey,,,,21.5,
+Yokohama National University,Japan,25.5,26.0,22.5,18.3,9649.0
+Università del Salento,Italy,,,,1.6,
+University of Ioannina,Greece,30.5,14.0,12.4,3.7,32155.0
+Vancouver Island University,Canada,,,,3.3,
+Al Quds University The Arab University in Jerusalem,"Palestinian Territory, Occupied",,,,10.7,
+Aligarh Muslim University,India,39.4,41.1,14.0,2.5,20428.0
+Amity University,India,34.8,23.6,14.0,7.6,30989.0
+Amrita Vishwa Vidyapeetham,India,34.8,28.4,20.5,4.1,22085.0
+An-Najah National University,"Palestinian Territory, Occupied",30.5,13.3,9.8,16.5,24835.0
+"Arab Academy for Science, Technology and Maritime Transport",Egypt,25.5,28.1,12.3,5.8,37942.0
+Assiut University ,Egypt,,,,6.9,
+Azerbaijan State University of Economics,Azerbaijan,,,,9.4,
+Baku State University,Azerbaijan,16.2,20.1,8.6,3.2,23684.0
+Banaras Hindu University,India,39.4,47.2,16.4,6.5,12620.0
+Baylor University,United States,39.4,39.2,19.7,16.8,20859.0
+Beijing Foreign Studies University,China (Mainland),,,,2.5,
+Beijing University of Chinese Medicine,China (Mainland),,,,1.4,
+Bina Nusantara University,Indonesia,,,,16.1,
+Binghamton University SUNY,United States,,,,4.8,
+Birmingham City University ,United Kingdom,,,,4.6,
+BRAC University,Bangladesh,34.8,14.8,12.3,29.1,13027.0
+Brigham Young University,United States,,,,5.3,
+Canterbury Christ Church University,United Kingdom,30.5,20.7,13.8,2.1,11155.0
+Chang Jung Christian University,Taiwan,,,,2.5,
+Chung Yuan Christian University,Taiwan,30.5,18.1,24.4,5.2,15939.0
+Chungbuk National University,South Korea,25.5,26.5,21.2,2.8,17075.0
+Corvinus University of Budapest,Hungary,,,,16.0,
+Cracow University of Technology,Poland,16.2,21.2,10.7,23.7,13510.0
+Dankook University ,South Korea,,,,3.5,
+Doshisha University,Japan,16.2,17.9,10.9,13.7,27624.0
+EGE UNIVERSITY,Turkey,,,,10.3,
+Escuela Politécnica Nacional,Ecuador,16.2,18.2,9.4,17.6,7458.0
+Escuela Superior Politécnica del Litoral,Ecuador,25.5,20.4,9.5,9.1,10271.0
+Ferdowsi University of Mashhad,"Iran, Islamic Republic of",34.8,28.6,26.8,10.3,25009.0
+Financial University under the Government of the Russian Federation,Russia,30.5,26.7,18.0,7.8,16580.0
+Fordham University ,United States,,,,7.3,
+Fundación CEU San Pablo,Spain,,,,7.3,
+Future University in Egypt,Egypt,,,,27.8,
+Gazi Üniversitesi,Turkey,,,,11.3,
+German Jordanian University,Jordan,25.5,17.8,11.4,13.4,4255.0
+Glasgow Caledonian University,United Kingdom,39.4,20.7,13.9,4.9,14840.0
+Harbin Engineering University,China (Mainland),34.8,28.1,30.6,2.0,33528.0
+Harper Adams University,United Kingdom,,,,12.6,
+Howard University,United States,34.8,48.0,18.8,7.7,10199.0
+Hungarian University of Agriculture and Life Sciences,Hungary,25.5,25.8,11.6,4.0,10252.0
+Imam Mohammad Ibn Saud Islamic University – IMSIU,Saudi Arabia,,,,4.8,
+Instituto Tecnológico de Santo Domingo,Dominican Republic,,,,7.9,
+International Christian University,Japan,,,,13.2,
+"ITESO, Universidad Jesuita de Guadalajara",Mexico,,,,5.5,
+Jiangnan University,China (Mainland),34.8,24.7,22.4,6.8,31018.0
+Kagoshima University,Japan,25.5,25.7,13.5,2.9,10257.0
+Kangwon National University ,South Korea,,,,5.4,
+Kazakh Ablai Khan University of International Relations and World Languages,Kazakhstan,,,,6.7,
+Kazakh-British Technical University,Kazakhstan,,,,22.6,
+Kazan National Research Technological University,Russia,16.2,21.9,8.8,3.6,13088.0
+Kent State University,United States,,,,4.1,
+Kookmin University ,South Korea,,,,4.0,
+Kyoto Institute of Technology,Japan,25.5,27.2,17.1,4.0,3943.0
+Kyushu Institute of Technology ,Japan,,,,5.4,
+Leeds Beckett University,United Kingdom,34.8,17.7,16.2,8.0,20360.0
+Lobachevsky University,Russia,,,,3.7,
+Lodz University of Technology,Poland,25.5,21.2,15.7,3.7,11706.0
+Mansoura University,Egypt,34.8,19.5,12.4,8.1,174302.0
+Meiji University,Japan,16.2,16.3,12.1,24.5,32810.0
+Mississippi State University,United States,39.4,27.3,20.0,5.8,21181.0
+Multimedia University,Malaysia,25.5,19.5,13.0,17.6,8893.0
+Mustansiriyah University,Iraq,16.2,25.3,8.4,5.3,30964.0
+Mutah University,Jordan,25.5,29.7,11.5,8.9,11348.0
+Mykolas Romeris University,Lithuania,,,,9.5,
+Nanjing Normal University,China (Mainland),34.8,25.1,15.1,1.7,32700.0
+National University of Kyiv-Mohyla Academy,Ukraine,,,,11.6,
+Northern Arizona University,United States,,,,6.0,
+Northwest University,China (Mainland),30.5,24.4,15.3,1.5,26059.0
+Novosibirsk State Technical University,Russia,16.2,20.2,12.4,5.9,12615.0
+Odessa I.I. Mechnikov National University,Ukraine,,,,2.6,
+Ohio University,United States,,,,9.3,
+Panjab University,India,39.4,32.6,16.2,5.9,19695.0
+Paul Valéry University Montpellier,France,,,,2.7,
+Pontifícia Universidade Católica de São Paulo,Brazil,,,,11.2,
+Poznań University of Technology,Poland,,,,5.6,
+Rochester Institute of Technology,United States,34.8,22.9,20.2,9.4,14249.0
+Russian Presidential Academy of National Economy and Public Administration,Russia,16.2,26.8,17.1,6.8,18646.0
+Saint-Petersburg Mining University,Russia,39.4,29.7,16.9,3.1,8345.0
+San Diego State University,United States,34.8,21.5,11.9,3.0,32069.0
+Sathyabama Institute of Science and Technology,India,25.5,31.2,9.9,6.3,13406.0
+Seoul National University of Science and Technology,South Korea,,,,3.8,
+Shanghai International Studies University,China (Mainland),,,,2.5,
+Sheffield Hallam University,United Kingdom,34.8,19.4,14.4,12.1,26580.0
+Shinshu University ,Japan,,,,3.4,
+"Siberian Federal University, SibFU",Russia,,,,3.8,
+Silesian University of Technology,Poland,25.5,21.8,15.6,3.6,17424.0
+Slovak University of Technology in Bratislava,Slovakia,16.2,27.6,12.0,7.9,10678.0
+Soonchunhyang University,South Korea,25.5,19.8,25.4,2.9,10329.0
+Southern Methodist University,United States,,,,3.8,
+Southwest University,China (Mainland),,,,1.7,
+Széchenyi István University,Hungary,16.2,19.1,11.7,24.7,9573.0
+Taibah University,Saudi Arabia,30.5,14.4,10.2,2.3,61471.0
+Tallinn University ,Estonia,,,,5.7,
+Technical University of Kosice,Slovakia,,,,2.5,
+Technical University of Liberec,Czech Republic,16.2,21.0,18.9,3.2,5303.0
+Telkom University,Indonesia,16.2,15.0,11.0,9.4,18956.0
+University of Lahore,Pakistan,34.8,17.6,10.2,17.5,26010.0
+University of Northampton,United Kingdom,,,,2.9,
+University of Texas at Arlington,United States,39.4,25.2,20.5,4.7,40412.0
+Tokai University,Japan,25.5,18.3,12.0,6.4,28334.0
+Tokushima University,Japan,25.5,29.2,24.0,1.9,7482.0
+Tomas Bata University in Zlin,Czech Republic,,,,15.0,
+Ufa State Aviation Technical University ,Russia,,,,2.0,
+Universidad Andrés Bello,Chile,,,,11.0,
+Universidad Austral de Chile,Chile,,,,10.7,
+Universidad Autónoma Chapingo,Mexico,,,,2.5,
+Universidad Autónoma de Guadalajara,Mexico,,,,5.2,
+Universidad Autónoma de Nuevo León,Mexico,,,,12.5,
+Universidad Autónoma del Estado de Hidalgo,Mexico,16.2,19.2,9.6,7.2,38732.0
+Universidad Autónoma del Estado de México,Mexico,,,,6.5,
+Universidad de Córdoba - España,Spain,,,,3.4,
+Universidad de León,Spain,,,,3.1,
+Universidad de Lima,Peru,,,,27.3,
+Universidad de Los Andes -Mérida,Venezuela,,,,12.8,
+Universidad de Monterrey,Mexico,,,,23.1,
+Universidad de Oriente Santiago de Cuba,Cuba,,,,10.8,
+Universidad de Oviedo,Spain,,,,3.5,
+Universidad de Puerto Rico,Puerto Rico,,,,6.2,
+Universidad de Talca,Chile,,,,8.6,
+Universidad del Norte ,Colombia,,,,20.8,
+Universidad del Pacífico,Peru,,,,30.8,
+Universidad del Valle,Colombia,16.2,23.2,8.7,15.0,33442.0
+Universidad Industrial de Santander - UIS,Colombia,,,,25.2,
+Universidad La Salle,Mexico,,,,26.5,
+Universidad Metropolitana,Venezuela,,,,14.6,
+Universidad Nacional de Cuyo,Argentina,,,,6.2,
+Universidad Nacional de la Asunción,Paraguay,,,,10.2,
+Universidad Nacional de San Luis,Argentina,,,,1.9,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,,,,2.7,
+"Universidad Nacional, Costa Rica",Costa Rica,,,,18.3,
+Universidad Peruana de Ciencias Aplicadas,Peru,,,,25.8,
+Universidad Tecnológica Nacional,Argentina,,,,24.1,
+Universidade da Coruña ,Spain,,,,5.6,
+Universidade Federal de Pernambuco,Brazil,,,,2.6,
+Universidade Federal de São Carlos,Brazil,,,,5.1,
+Universidade Federal do Paraná - UFPR,Brazil,,,,5.8,
+"Universita' degli Studi ""G. d'Annunzio"" Chieti Pescara",Italy,,,,1.5,
+Università degli Studi della Tuscia,Italy,,,,1.3,
+Università degli Studi di Udine,Italy,,,,2.5,
+Universitas Hasanuddin,Indonesia,,,,9.5,
+Universitas Sebelas Maret,Indonesia,25.5,19.3,19.3,11.5,27580.0
+Universitat de Lleida,Spain,,,,1.9,
+Universität Siegen,Germany,,,,1.9,
+Université de Caen Normandie,France,,,,2.6,
+Université de Poitiers,France,34.8,28.6,25.7,2.0,29280.0
+Université de Sfax,Tunisia,,,,2.5,
+Université de Sousse,Tunisia,,,,1.1,
+Université de Toulouse II-Le Mirail,France,,,,2.6,
+Université Lumière Lyon 2,France,,,,2.5,
+Universiti Kuala Lumpur,Malaysia,16.2,23.6,9.0,9.9,15516.0
+Universiti Malaysia Perlis,Malaysia,25.5,21.6,12.5,5.5,10836.0
+Universiti Malaysia Sabah,Malaysia,,,,10.0,
+Universiti Malaysia Sarawak,Malaysia,,,,8.7,
+Universiti Malaysia Terengganu,Malaysia,,,,4.6,
+Universiti Tun Hussein Onn University of Malaysia,Malaysia,,,,7.0,
+University of Arkansas Fayetteville ,United States,,,,4.3,
+University of Colombo,Sri Lanka,30.5,25.4,10.6,14.8,34058.0
+University of Derby,United Kingdom,39.4,18.5,12.8,3.2,16170.0
+University of Deusto,Spain,34.8,22.5,23.2,20.9,9570.0
+University of Hradec Kralove,Czech Republic,,,,1.9,
+University of Idaho,United States,,,,1.4,
+University of Karachi,Pakistan,16.2,14.1,10.6,15.3,47337.0
+University of Louisville,United States,,,,4.5,
+University of Mississippi,United States,,,,3.2,
+"University of Missouri, Kansas City",United States,,,,5.1,
+University of Nairobi,Kenya,25.5,12.0,10.6,14.6,52678.0
+University of Naples Parthenope,Italy,,,,2.0,
+University of New Hampshire,United States,,,,4.3,
+University of North Carolina at Charlotte,United States,39.4,23.2,22.1,4.5,26819.0
+University of North Texas,United States,,,,6.8,
+University of Novi Sad,Serbia,16.2,19.0,11.7,3.6,47978.0
+University of Pardubice,Czech Republic,16.2,21.1,17.7,2.6,7375.0
+University of Primorska,Slovenia,16.2,16.4,14.9,2.3,5805.0
+University of Regina,Canada,34.8,17.8,19.5,2.9,14167.0
+University of Rhode Island ,United States,,,,2.8,
+University of San Francisco,United States,,,,4.0,
+University of South Bohemia,Czech Republic,,,,2.6,
+University of Texas at San Antonio,United States,43.6,21.0,22.5,3.0,28469.0
+University of Texas El Paso ,United States,,,,2.1,
+University of the Free State,South Africa,34.8,22.4,18.7,6.6,33247.0
+University of the Sunshine Coast ,Australia,,,,2.2,
+University of Toledo,United States,39.4,35.7,16.7,4.4,16199.0
+University of Tulsa,United States,43.6,36.1,17.2,3.0,4110.0
+University of Tyumen,Russia,,,,2.3,
+University of Wisconsin Milwaukee ,United States,,,,2.7,
+University of Wolverhampton,United Kingdom,39.4,19.1,14.7,3.2,15115.0
+University of Wyoming,United States,39.4,35.9,20.3,1.4,10174.0
+University of Žilina,Slovakia,30.5,27.7,18.0,1.0,7154.0
+Utah State University ,United States,,,,3.2,
+VSB - Technical University of Ostrava,Czech Republic,25.5,26.8,19.7,10.3,11390.0
+Warsaw University of Life Sciences – SGGW,Poland,25.5,19.9,11.8,5.0,15737.0
+Western Michigan University,United States,30.5,24.0,17.1,3.6,16486.0
+Xi'an Jiaotong Liverpool University,China (Mainland),,,,2.1,
+Yamaguchi University ,Japan,,,,1.7,
+Yarmouk University,Jordan,25.5,19.9,12.9,14.5,31177.0
+Yerevan State University,Armenia,16.2,23.9,8.6,3.0,13838.0
+Lucian Blaga University of Sibiu,Romania,16.2,18.5,14.0,2.5,13369.0
+ Don State Technical University,Russia,,,,3.1,
+Al-Azhar University,Egypt,34.8,19.2,10.9,6.8,269733.0
+Alexandru Ioan Cuza University,Romania,16.2,16.5,12.1,8.0,25443.0
+Anadolu University,Turkey,25.5,22.3,11.8,4.0,21491.0
+Aoyama Gakuin University,Japan,16.2,20.0,8.9,12.3,19692.0
+Atma Jaya Catholic University Jakarta,Indonesia,,,,6.3,
+Azerbaijan State Oil and Industry University,Azerbaijan,,,,3.0,
+Bahauddin Zakariya University ,Pakistan,,,,5.5,
+Belarusian State University of Informatics and Radioelectronics,Belarus,,,,18.3,
+Benemérita Universidad Autónoma de Puebla,Mexico,16.2,15.6,9.5,6.5,79695.0
+Birzeit university,"Palestinian Territory, Occupied",,,,9.4,
+British University in Egypt,Egypt,25.5,17.5,9.5,4.5,10648.0
+Brock University,Canada,,,,6.8,
+California Polytechnic State University,United States,,,,9.3,
+Católica de Córdoba,Argentina,,,,2.7,
+Central Michigan University,United States,30.5,28.8,15.3,4.2,13780.0
+Chaoyang University of Technology,Taiwan,16.2,14.1,18.2,6.7,14432.0
+China University of Political Science and Law,China (Mainland),,,,27.6,
+Chitkara University,India,,,,4.6,
+Chittagong University of Engineering and Technology,Bangladesh,,,,12.6,
+Cleveland State University,United States,,,,4.2,
+CUNY The City College of New York,United States,,,,1.8,
+Daffodil International University,Bangladesh,,,,16.5,
+Damascus University,Syrian Arab Republic,,,,4.2,
+Dokuz Eylül Üniversitesi,Turkey,,,,5.9,
+East West University,Bangladesh,,,,14.6,
+Erciyes Üniversitesi,Turkey,,,,3.1,
+Feng Chia University,Taiwan,25.5,18.4,18.9,7.5,19770.0
+Florida Atlantic University - Boca Raton,United States,,,,3.8,
+Fu Jen Catholic University,Taiwan,30.5,24.0,29.2,7.5,16382.0
+Fundación Universidad De Bogotá-Jorge Tadeo Lozano,Colombia,,,,4.5,
+Gebze Yüksek Teknoloji Enstitüsü,Turkey,,,,2.7,
+German University in Cairo,Egypt,16.2,18.6,8.7,11.4,12332.0
+Hanoi University of Science and Technology,Vietnam,16.2,15.7,15.7,8.7,37891.0
+Helwan University ,Egypt,,,,10.1,
+Hohai University,China (Mainland),,,,1.5,
+Hongik University ,South Korea,,,,5.9,
+Indiana State University,United States,,,,4.8,
+International Islamic University Islamabad,Pakistan,,,,10.8,
+Istanbul Aydin University  ,Turkey,,,,2.8,
+Istanbul Bilgi Üniversitesi,Turkey,,,,4.5,
+Ivan Franko National University of Lviv,Ukraine,25.5,24.5,10.5,10.1,19799.0
+Izmir Institute of Technology,Turkey,25.5,20.2,15.1,3.5,6309.0
+Jahangirnagar University,Bangladesh,34.8,24.1,8.9,13.7,12649.0
+Jamia Hamdard,India,,,,1.5,
+Jeju National University ,South Korea,,,,2.0,
+Kenyatta University,Kenya,,,,8.0,
+Kharkiv National University of Radio Electronics ,Ukraine,,,,13.1,
+Khulna University of Engineering and Technology,Bangladesh,,,,11.4,
+Kindai University,Japan,30.5,18.4,11.8,4.6,34545.0
+King Mongkut\'s Institute of Technology Ladkrabang,Thailand,,,,7.4,
+King Mongkut's University of Technology North Bangkok,Thailand,25.5,16.2,12.7,5.8,28122.0
+Korkyt Ata Kyzylorda University,Kazakhstan,,,,6.3,
+Kwansei Gakuin University,Japan,16.2,15.7,9.5,6.4,25232.0
+M.Kh. Dulaty Taraz Regional University,Kazakhstan,,,,2.6,
+Marmara University,Turkey,16.2,17.0,11.7,8.3,62991.0
+Marquette University,United States,34.8,36.9,18.2,3.8,10317.0
+Mendeleev University of Chemical Technology,Russia,16.2,19.6,14.1,3.9,7338.0
+Miami University,United States,,,,4.7,
+Moscow Pedagogical State University,Russia,,,,2.7,
+Nagoya Institute of Technology,Japan,25.5,21.5,20.3,2.3,5760.0
+Naresuan University,Thailand,16.2,15.8,10.5,3.3,27234.0
+National Dong Hwa University,Taiwan,25.5,19.1,23.8,2.3,9970.0
+National Research University Moscow Power Engineering Institute,Russia,,,,3.5,
+National Taipei University,Taiwan,16.2,20.6,15.1,4.5,8386.0
+National Taiwan Ocean University,Taiwan,25.5,19.7,25.0,3.2,8244.0
+National University of Life and Environmental Sciences of Ukraine,Ukraine,16.2,20.3,8.9,4.4,17628.0
+"National University of Modern Languages, Islamabad",Pakistan,,,,7.2,
+Norwegian University of Life Sciences,Norway,39.4,32.1,14.7,3.7,7275.0
+Nova Southeastern University,United States,34.8,39.1,12.2,3.3,17973.0
+Óbuda University,Hungary,30.5,14.4,16.4,3.9,10997.0
+OSMANIA UNIVERSITY,India,,,,3.5,
+Perm State National Research University,Russia,,,,1.7,
+Pondicherry University,India,30.5,33.5,18.4,1.9,8187.0
+Pontificia Universidad Catolica Madre y Maestra,Dominican Republic,,,,8.0,
+Pontifícia Universidade Católica do Rio Grande do Sul,Brazil,,,,3.8,
+Portland State University,United States,34.8,22.1,23.2,2.1,18763.0
+Pukyong National University ,South Korea,,,,3.4,
+Rikkyo University,Japan,25.5,18.6,9.3,12.0,19783.0
+Russian State Agrarian University - Moscow Timiryazev Agricultural Academy,Russia,,,,3.5,
+Russian State University for the Humanities ,Russia,,,,2.6,
+"Rutgers, The State University of New Jersey, Camden",United States,,,,3.0,
+Saitama University,Japan,16.2,22.9,15.5,1.8,8321.0
+Saken Seifullin Kazakh Agrotechnical University,Kazakhstan,,,,6.8,
+San Francisco State University,United States,,,,2.4,
+Seattle University,United States,,,,4.2,
+Shanghai Normal University,China (Mainland),,,,1.4,
+Shanghai University of Finance and Economics,China (Mainland),,,,4.4,
+Shibaura Institute of Technology,Japan,25.5,20.8,20.1,2.3,9001.0
+Siksha 'O' Anusandhan,India,,,,2.0,
+Silpakorn University,Thailand,16.2,19.3,13.6,6.7,22163.0
+Sookmyung Women's University ,South Korea,,,,6.4,
+Soongsil University,South Korea,25.5,26.7,15.0,6.5,15808.0
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY,India,,,,13.1,
+Stefan cel Mare University of Suceava,Romania,,,,2.3,
+Suez Canal University,Egypt,30.5,19.7,8.8,2.6,45981.0
+Suleyman Demirel University,Turkey,,,,3.8,
+"Suleyman Demirel University, Kazakhstan",Kazakhstan,,,,8.5,
+Suranaree University of Technology ,Thailand,,,,3.1,
+Tamkang University,Taiwan,25.5,15.3,12.7,5.5,23600.0
+Tanta University ,Egypt,,,,4.3,
+Technical University of Cluj-Napoca,Romania,25.5,17.0,13.2,4.8,19065.0
+Technical University of Lublin,Poland,,,,1.9,
+"""Gheorghe Asachi"" Technical University of Iasi",Romania,,,,6.8,
+Hashemite University,Jordan,25.5,13.2,14.2,13.0,17665.0
+Herzen State Pedagogical University of Russia,Russia,16.2,20.2,11.5,1.9,15645.0
+"National Research University ""Belgorod State University""",Russia,,,,1.3,
+Toraighyrov University,Kazakhstan,,,,4.2,
+Transilvania University of Brasov,Romania,,,,3.8,
+Tunghai University,Taiwan,25.5,16.5,14.4,6.1,15201.0
+United International University,Bangladesh,,,,8.9,
+Universidad Alberto Hurtado,Chile,,,,5.4,
+Universidad Autónoma de Aguascalientes,Mexico,,,,1.9,
+Universidad Autónoma de Baja California,Mexico,,,,2.9,
+Universidad Bernardo O'Higgins,Chile,,,,2.8,
+Universidad Católica de Temuco,Chile,,,,1.7,
+Universidad Católica del Norte,Chile,,,,3.4,
+Universidad Central del Ecuador,Ecuador,,,,5.0,
+Universidad de Carabobo,Venezuela,,,,8.0,
+Universidad de Cartagena,Colombia,25.5,13.8,9.1,5.4,21749.0
+Universidad de Córdoba - Colombia,Colombia,,,,2.5,
+Universidad de Guanajuato,Mexico,,,,3.0,
+Universidad de La Frontera,Chile,,,,4.4,
+Universidad de Las AméricasEcuador,Ecuador,,,,4.5,
+Universidad de las Fuerzas Armadas ESPE,Ecuador,,,,5.4,
+Universidad de Medellín,Colombia,,,,5.2,
+Universidad de Panama,Panama,,,,8.0,
+Universidad de Piura,Peru,,,,10.2,
+Universidad de San Carlos de Guatemala - USAC,Guatemala,,,,7.6,
+Universidad de Valparaíso,Chile,,,,6.8,
+Universidad del Bío-Bío,Chile,,,,4.2,
+Universidad del Cauca,Colombia,,,,4.0,
+Universidad del Desarrollo,Chile,,,,14.6,
+Universidad del Salvador,Argentina,,,,9.0,
+Universidad del Zulia,Venezuela,,,,7.6,
+Universidad Mayor de San Andrés,Bolivia,,,,2.4,
+Universidad Nacional Agraria la Molina,Peru,,,,8.7,
+Universidad Nacional de Mar del Plata,Argentina,,,,2.8,
+Universidad Nacional de Río Cuarto - UNRC,Argentina,,,,1.5,
+Universidad Nacional de San Martín,Argentina,,,,3.2,
+Universidad Nacional del Comahue,Argentina,,,,2.5,
+Universidad Nacional del Litoral,Argentina,16.2,12.0,9.4,5.8,50145.0
+Universidad Popular Autónoma del Estado de Puebla,Mexico,,,,4.5,
+Universidad San Ignacio de Loyola,Peru,,,,9.2,
+"Universidad Tecnológica de la Habana José Antonio Echeverría, Cujae",Cuba,,,,1.1,
+Universidad Veracruzana,Mexico,,,,3.2,
+Universidade do Estado do Rio de Janeiro,Brazil,,,,4.0,
+Universidade Federal da Bahia,Brazil,25.5,27.5,12.3,2.4,51291.0
+Universidade Federal de Juiz de Fora-,Brazil,,,,2.3,
+Universidade Federal de Pelotas ,Brazil,,,,1.4,
+Universidade Federal de Santa Maria,Brazil,,,,1.6,
+Universidade Federal de Viçosa,Brazil,,,,2.3,
+Universidade Federal do Ceará,Brazil,,,,3.1,
+Universidade Federal Fluminense ,Brazil,,,,2.3,
+Universidade Presbiteriana Mackenzie,Brazil,,,,7.6,
+Università degli studi di Bergamo,Italy,,,,2.3,
+Universitas Islam Indonesia,Indonesia,,,,3.8,
+Universitas Muhammadiyah Yogyakarta,Indonesia,,,,2.5,
+Universitas Pendidikan Indonesia,Indonesia,16.2,19.8,12.1,3.1,32713.0
+Universitas Sumatera Utara,Indonesia,16.2,16.5,10.5,6.2,35761.0
+Universitatea de Vest din Timisoara / West University of Timisoara,Romania,,,,6.3,
+Université de Franche-Comté,France,,,,2.1,
+Université de Limoges,France,,,,1.9,
+Université de Tunis,Tunisia,,,,2.5,
+Université Jean Moulin Lyon 3,France,,,,3.4,
+Université Mohammed V de Rabat,Morocco,,,,2.2,
+Université Paris-Nanterre,France,,,,2.4,
+Universiti Sains Islam Malaysia,Malaysia,,,,2.9,
+Universiti Teknikal Malaysia Melaka,Malaysia,25.5,20.1,11.4,6.2,11730.0
+University of Babylon,Iraq,25.5,21.4,8.2,6.3,30973.0
+University of Basrah,Iraq,16.2,23.4,7.8,6.0,42848.0
+University of Bialystok,Poland,,,,3.1,
+University of Central Oklahoma,United States,,,,1.5,
+University of Iceland,Iceland,43.6,23.4,34.0,5.5,9899.0
+University of International Business and Economics,China (Mainland),,,,1.8,
+University of Khartoum,Sudan,,,,4.5,
+University of Kufa,Iraq,16.2,20.0,8.7,8.5,28175.0
+University of Memphis,United States,34.8,27.5,19.0,5.1,16549.0
+University of Miskolc ,Hungary,,,,5.2,
+University of Missouri Saint Louis,United States,,,,3.6,
+University of Montana Missoula ,United States,,,,2.6,
+University of Niš,Serbia,,,,3.7,
+University of North Carolina at Greensboro,United States,,,,2.8,
+University of Ostrava,Czech Republic,16.2,19.5,16.3,1.0,8526.0
+University of Pannonia,Hungary,16.2,22.2,15.6,3.5,5241.0
+University of Peradeniya ,Sri Lanka,,,,9.9,
+University of Rijeka,Croatia,16.2,18.7,16.7,2.7,13163.0
+University of Rzeszów,Poland,,,,1.9,
+University of San Carlos,Philippines,,,,8.6,
+University of San Diego,United States,,,,4.4,
+University of Sarajevo ,Bosnia and Herzegovina,,,,3.5,
+University of Silesia in Katowice,Poland,16.2,23.2,13.5,4.3,19222.0
+University of South Alabama,United States,,,,4.4,
+University of Split,Croatia,25.5,17.9,13.9,2.5,19354.0
+University of the Pacific,United States,,,,3.7,
+University of Warmia and Mazury in Olsztyn,Poland,16.2,16.9,13.5,10.8,16899.0
+University of West Bohemia ,Czech Republic,,,,2.0,
+University POLITEHNICA of Bucharest,Romania,,,,8.7,
+Voronezh State University,Russia,16.2,22.7,10.7,2.3,16386.0
+Yogyakarta State University,Indonesia,16.2,16.9,10.5,2.8,24073.0
+Youngsan University,South Korea,,,,10.6,
+Yuan Ze University,Taiwan,25.5,18.5,24.1,5.4,6852.0
+Zagazig University,Egypt,34.8,14.2,9.2,3.8,166653.0
+Narxoz University,Kazakhstan,,,,5.0,
+Akdeniz Üniversitesi,Turkey,,,,3.8,
+Al-Balqa Applied University,Jordan,30.5,12.0,13.6,6.7,27973.0
+Ataturk University,Turkey,,,,2.0,
+California State University - Los Angeles,United States,,,,2.5,
+California State University Long Beach,United States,,,,2.8,
+Cukurova University,Turkey,25.5,23.8,23.4,2.8,35424.0
+Georgian Technical University,Georgia,16.2,32.4,9.3,4.2,19873.0
+Guru Gobind Singh Indraprastha University,India,,,,2.6,
+Humboldt State University,United States,,,,2.2,
+Illinois State University,United States,,,,3.5,
+Indian Statistical Institute,India,,,,3.4,
+"International University of Business, Agriculture and Technology",Bangladesh,,,,3.6,
+Irkutsk State University,Russia,16.2,18.6,11.5,1.6,13496.0
+Khulna University,Bangladesh,25.5,17.0,9.5,5.3,6997.0
+Kwame Nkrumah University of Science and Technology,Ghana,30.5,16.2,20.7,7.6,71529.0
+MIREA - Russian Technological University,Russia,16.2,15.0,11.7,4.9,26765.0
+Moscow City University,Russia,,,,1.6,
+Nara Institute of Science and Technology,Japan,,,,2.3,
+Pontificia Universidade Católica do Campinas - PUC Campinas,Brazil,,,,3.3,
+Pontificia Universidade Católica do Minas Gerais - PUC Minas,Brazil,,,,3.8,
+Pontifícia Universidade Católica do Paraná,Brazil,25.5,26.3,12.8,2.7,11476.0
+Rajshahi University,Bangladesh,,,,9.7,
+Sakarya University,Turkey,25.5,16.5,10.6,3.0,42601.0
+Shahjalal University of Science and Technology,Bangladesh,25.5,13.2,8.4,8.9,9585.0
+Soochow University,Taiwan,,,,6.0,
+Stamford University Bangladesh,Bangladesh,,,,2.8,
+State University of Malang,Indonesia,16.2,18.5,11.1,2.3,33358.0
+Sudan University of Science and Technology,Sudan,,,,2.7,
+Technical University of Crete,Greece,25.5,13.1,11.1,5.4,6935.0
+Technische Universität Bergakademie Freiberg,Germany,,,,4.6,
+Technische Universität Hamburg-Harburg,Germany,,,,5.6,
+Technische Universität Kaiserslautern,Germany,,,,3.2,
+"University of Notre Dame, Australia",Australia,,,,4.2,
+Udayana University,Indonesia,,,,3.9,
+Universidad Autónoma de Chile,Chile,30.5,12.5,12.2,2.2,30336.0
+Universidad Autónoma de Querétaro,Mexico,16.2,19.1,10.5,2.9,25567.0
+Universidad Autónoma de San Luis de Potosí,Mexico,,,,2.4,
+Universidad Autonoma de Yucatan,Mexico,,,,1.5,
+Universidad Autónoma del Estado de Morelos,Mexico,16.2,17.1,9.1,2.2,30889.0
+"Universidad Católica Boliviana ""San Pablo""",Bolivia,,,,3.2,
+Universidad Católica de Colombia ,Colombia,,,,4.9,
+Universidad Católica de La Santísima Concepción - UCSC,Chile,,,,2.4,
+Universidad Católica de Santiago de Guayaquil,Ecuador,,,,4.2,
+Universidad Central de Chile,Chile,,,,3.2,
+Universidad de Caldas,Colombia,,,,4.0,
+Universidad de Cuenca,Ecuador,,,,2.3,
+Universidad de La Salle,Colombia,,,,4.8,
+Universidad de La Serena,Chile,,,,2.0,
+Universidad de Santander - UDES,Colombia,,,,2.9,
+Universidad de Sonora,Mexico,,,,1.7,
+Universidad de Tarapaca,Chile,,,,2.3,
+Universidad del Magdalena,Colombia,,,,4.6,
+Universidad del Valle de Mexico,Mexico,,,,13.3,
+Universidad Mayor de San Simón Cochabamba,Bolivia,,,,2.6,
+Universidad Michoacana de San Nicolás de Hidalgo,Mexico,,,,1.8,
+Universidad Nacional Autónoma de Honduras,Honduras,,,,5.0,
+Universidad Nacional de Quilmes,Argentina,,,,2.2,
+Universidad Nacional de Tucumán,Argentina,,,,2.7,
+Universidad Nacional del Sur,Argentina,,,,2.5,
+UNIVERSIDAD POLITECNICA SALESIANA,Ecuador,,,,3.0,
+Universidad Tecnica Particular De Loja,Ecuador,,,,2.8,
+Universidad Tecnológica de Bolívar,Colombia,,,,5.4,
+Universidad Tecnológica de Pereira,Colombia,,,,7.1,
+Universidade do Estado de Santa Catarina,Brazil,16.2,26.5,11.0,1.3,12417.0
+Universidade Estadual de Londrina,Brazil,,,,2.5,
+Universidade Federal da Paraíba,Brazil,,,,2.7,
+Universidade Federal de Goiás,Brazil,,,,1.6,
+Universidade Federal de Uberlândia,Brazil,,,,1.9,
+Universidade Federal do Estado do Rio de Janeiro - UNIRIO,Brazil,,,,1.9,
+Universidade Federal do Parà - UFPA,Brazil,,,,1.8,
+Universidade Federal do Rio Grande Do Norte,Brazil,,,,1.5,
+Universitas Andalas,Indonesia,16.2,24.7,12.7,3.9,32695.0
+Universitas Kristen Petra,Indonesia,,,,4.2,
+Universitas Muhammadiyah Surakarta,Indonesia,,,,2.4,
+Université Sorbonne Paris Nord,France,,,,5.1,
+University of Craiova,Romania,16.2,18.3,11.5,2.0,16907.0
+University of Ibadan,Nigeria,34.8,27.6,14.4,6.6,41269.0
+University of Kragujevac,Serbia,30.5,23.8,10.7,2.4,16543.0
+University of Lagos,Nigeria,30.5,14.6,14.4,5.6,41048.0
+University of Lampung,Indonesia,16.2,17.1,8.1,1.8,34807.0
+University of Mataram,Indonesia,,,,1.6,
+University of Oradea,Romania,25.5,16.7,14.6,2.0,15820.0
+University of Stavanger,Norway,39.4,24.7,15.6,5.7,11428.0
+"University Politehnica of Timisoara, UPT",Romania,,,,3.4,
+Western Washington University,United States,,,,3.4,
+Zürcher Hochschule Winterthur,Switzerland,,,,6.7,
